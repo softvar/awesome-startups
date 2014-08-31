@@ -1,8 +1,14 @@
-hey buddy
+# awesome-startups
 
-kyun yar
+This repo is maintained to provide the information regarding the Top 100 startups across the globe. To retrieve the awesome-data about the awesome-startups, I have used the rankings provided by `startupranking.com`. The PHP-script crunches the latest data on daily-basis to provide [up-to-date information](#how-it-is-dynamic) in this README file. It also provides a list of country-based startups(sorted in descending order of the no of startups in a country) while the startups in their corresponding files are listed in ascending order of their rankings.
 
-## List of Top 100 Startups across worlds
+- [List of Top 100 Startups](#list-of-top-100-startups-across-globe)
+- [List of top Startups based on their location](#list-of-countries)
+- [Implementation and Flow](#how-it-is-dynamic)
+- [Contribution](#contribution)
+- [License](#license)
+
+## List of Top 100 Startups across globe
 
 1. [behance](http://www.startupranking.com/behance)
 2. [eventbrite](http://www.startupranking.com/eventbrite)
@@ -105,8 +111,9 @@ kyun yar
 99. [wunderlist](http://www.startupranking.com/wunderlist)
 100. [wetpaint](http://www.startupranking.com/wetpaint)
 
-## List of Countries(sorted in descending order of the number of startups)
+## List of Countries
 
+This list is sorted in descending order of the number of startups a country has
 - [United States](countries/united-states.md)
 - [India](countries/india.md)
 - [United Kingdom](countries/united-kingdom.md)
@@ -125,8 +132,8 @@ kyun yar
 - [Nigeria](countries/nigeria.md)
 - [France](countries/france.md)
 - [Chile](countries/chile.md)
-- [Portugal](countries/portugal.md)
 - [Mexico](countries/mexico.md)
+- [Portugal](countries/portugal.md)
 - [Belgium](countries/belgium.md)
 - [Netherlands](countries/netherlands.md)
 - [Hungary](countries/hungary.md)
@@ -157,8 +164,8 @@ kyun yar
 - [Norway](countries/norway.md)
 - [Venezuela](countries/venezuela.md)
 - [Cameroon](countries/cameroon.md)
-- [Malaysia](countries/malaysia.md)
 - [Sri Lanka](countries/sri-lanka.md)
+- [Malaysia](countries/malaysia.md)
 - [Serbia](countries/serbia.md)
 - [Uruguay](countries/uruguay.md)
 - [Latvia](countries/latvia.md)
@@ -170,8 +177,8 @@ kyun yar
 - [Botswana](countries/botswana.md)
 - [China](countries/china.md)
 - [Vietnam](countries/vietnam.md)
-- [Slovakia](countries/slovakia.md)
 - [Bolivia](countries/bolivia.md)
+- [Slovakia](countries/slovakia.md)
 - [Denmark](countries/denmark.md)
 - [Ethiopia](countries/ethiopia.md)
 - [Tunisia](countries/tunisia.md)
@@ -183,22 +190,24 @@ kyun yar
 - [Pakistan](countries/pakistan.md)
 - [Taiwan](countries/taiwan.md)
 - [New Zealand](countries/new-zealand.md)
-- [Saudi Arabia](countries/saudi-arabia.md)
-- [Tanzania](countries/tanzania.md)
 - [Brunei](countries/brunei.md)
 - [Guatemala](countries/guatemala.md)
+- [Saudi Arabia](countries/saudi-arabia.md)
+- [Tanzania](countries/tanzania.md)
 - [Algeria](countries/algeria.md)
 - [Bosnia And Herzegovina](countries/bosnia-and-herzegovina.md)
 - [Bangladesh](countries/bangladesh.md)
 - [Puerto Rico](countries/puerto-rico.md)
 - [Panama](countries/panama.md)
+- [Costa Rica](countries/costa-rica.md)
 - [Mozambique](countries/mozambique.md)
 - [Moldova](countries/moldova.md)
 - [Zimbabwe](countries/zimbabwe.md)
 - [Nepal](countries/nepal.md)
 - [Benin](countries/benin.md)
 - [Senegal](countries/senegal.md)
-- [Costa Rica](countries/costa-rica.md)
+- [Maldives](countries/maldives.md)
+- [French Polynesia](countries/french-polynesia.md)
 - [Afghanistan](countries/afghanistan.md)
 - [Georgia](countries/georgia.md)
 - [Cote D Ivoire](countries/cote-d-ivoire.md)
@@ -207,8 +216,9 @@ kyun yar
 - [European Union](countries/european-union.md)
 - [Malta](countries/malta.md)
 - [Iran](countries/iran.md)
-- [Maldives](countries/maldives.md)
-- [French Polynesia](countries/french-polynesia.md)
+- [Somalia](countries/somalia.md)
+- [Iceland](countries/iceland.md)
+- [Sao Tome And Principe](countries/sao-tome-and-principe.md)
 - [Azerbaijan](countries/azerbaijan.md)
 - [Luxembourg](countries/luxembourg.md)
 - [Honduras](countries/honduras.md)
@@ -237,6 +247,35 @@ kyun yar
 - [Myanmar Burma](countries/myanmar-burma.md)
 - [American Samoa](countries/american-samoa.md)
 - [Liechtenstein](countries/liechtenstein.md)
-- [Somalia](countries/somalia.md)
-- [Iceland](countries/iceland.md)
-- [Sao Tome And Principe](countries/sao-tome-and-principe.md)
+
+## How it is dynamic
+
+The whole work is dependent on the data provided by `startupranking.com`. All the lists here are updated each day with the up-to-date information on `startupranking.com`. Here it follows:
+
+1. Firstly, the list of supported countries(countries which have startups and are registered on the site) are fetched according to the list [startupranking.com/countries](http://www.startupranking.com/countries). The list is stored as a JSON file - `supported-countries.json`.
+
+2. The `README.md` file is generated based on three things. Firstyly, the data is fetched from the file `pre-readme-content.txt`, then the data collected from crawling the site is appended and finally, content from `post-readme-content.txt` is fetched to make this `README` file. This way, only scripts need to be fired each day and pushing the desired changes make the overall process very friendly and in sync with the site's information.
+
+3. The data for Top 100 startups is shown in the `README` and view startups rank-wise for a particular country by clicking on the country-name which will open the corresponding `markdown` file.
+
+## Contribution
+
+1. Clone this repo.
+2. Create a new branch(prefixing your `github username` and using `-` as delimiter). For eg. `softvar-fixed-type` or `softvar-updated-list`.
+3. Do the desired work.
+4. Ignore steps 5 and 6 if there's only a typo-fix.
+5. Run `fetch-countries.php` to update the supported list of countries.
+6. Run `index.php` to fetch the data and Update the `corresponding files` and `README.md` file. Please wait since this script will be crunching a huge data and then would be writing the same using `Markdown syntax` to the files :)
+7. Please verify your changes.
+8. Only one commit for all the changed files.
+    ```
+    $ git add .
+    $ git commit -m "Change the logic to boost up performance"
+    $ git push origin [branch-name]
+    ```
+9. Open a Pull Request(PR).
+10. Please write a meaningful description for the PR and you're done.
+
+## License
+
+MIT (c) 2014, Varun Malhotra

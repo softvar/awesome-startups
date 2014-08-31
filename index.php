@@ -40,8 +40,8 @@ function appendText($dest, $text) {
  *	Prepare README Content
  */
 $readmeOutput = file_get_contents('pre-readme-content.txt');
-
-$readmeOutput = appendText($readmeOutput, '## List of Top 100 Startups across worlds');
+$readmeOutput = insertNewline($readmeOutput, 2);
+$readmeOutput = appendText($readmeOutput, '## List of Top 100 Startups across globe');
 $readmeOutput = insertNewline($readmeOutput, 2);
 $make         = 'http://www.startupranking.com/top/';
 // get page contents
@@ -60,8 +60,10 @@ foreach ($startupNames[0] as $key => $value) {
     }
 }
 $readmeOutput = insertNewline($readmeOutput, 1);
-$readmeOutput = appendText($readmeOutput, '## List of Countries(sorted in descending order of the number of startups)');
+$readmeOutput = appendText($readmeOutput, '## List of Countries');
 $readmeOutput = insertNewline($readmeOutput, 2);
+$readmeOutput = appendText($readmeOutput, 'This list is sorted in descending order of the number of startups a country has');
+$readmeOutput = insertNewline($readmeOutput, 1);
 
 foreach ($listOfSupportedCountries['countries'] as $key => $value) {
     //echo ucfirst($value);
@@ -74,7 +76,8 @@ foreach ($listOfSupportedCountries['countries'] as $key => $value) {
     $readmeOutput = insertNewline($readmeOutput, 1);
 }
 
-$postReadmeContent = file_get_contents('post-readme-content.txt');
+$postReadmeContent = insertNewline($postReadmeContent, 1);
+$postReadmeContent = appendText($postReadmeContent, file_get_contents('post-readme-content.txt'));
 $readmeOutput = appendText($readmeOutput, $postReadmeContent);
 file_put_contents('README.md', $readmeOutput);
 
