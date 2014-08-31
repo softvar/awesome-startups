@@ -10,7 +10,7 @@
 8. [telefongear](http://www.startupranking.com/telefongear)
 9. [mofomo](http://www.startupranking.com/mofomo)
 10. [billytracker](http://www.startupranking.com/billytracker)
-11. [group.do](http://www.startupranking.com/group.do)
+11. [group.do](http://www.startupranking.com/group-do)
 12. [artbudle](http://www.startupranking.com/artbudle)
 13. [infobark](http://www.startupranking.com/infobark)
 14. [fund-my-beer](http://www.startupranking.com/fund-my-beer)

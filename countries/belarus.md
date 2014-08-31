@@ -1,6 +1,6 @@
 ## Belarus
 
-1. [maesens.by](http://www.startupranking.com/maesens.by)
+1. [maesens.by](http://www.startupranking.com/maesens-by)
 2. [ikantam](http://www.startupranking.com/ikantam)
 3. [p3chat](http://www.startupranking.com/p3chat)
 4. [recommerce](http://www.startupranking.com/recommerce)

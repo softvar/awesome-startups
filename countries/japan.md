@@ -64,7 +64,7 @@
 62. [moneytree](http://www.startupranking.com/moneytree)
 63. [colish](http://www.startupranking.com/colish)
 64. [wondershake](http://www.startupranking.com/wondershake)
-65. [yunomi.us](http://www.startupranking.com/yunomi.us)
+65. [yunomi.us](http://www.startupranking.com/yunomi-us)
 66. [videogram](http://www.startupranking.com/videogram)
 67. [crowsnest](http://www.startupranking.com/crowsnest)
 68. [meetrip](http://www.startupranking.com/meetrip)

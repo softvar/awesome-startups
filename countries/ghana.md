@@ -14,7 +14,7 @@
 12. [nkyea](http://www.startupranking.com/nkyea)
 13. [cedicompare](http://www.startupranking.com/cedicompare)
 14. [nandimobile](http://www.startupranking.com/nandimobile)
-15. [freelancepro.me](http://www.startupranking.com/freelancepro.me)
+15. [freelancepro.me](http://www.startupranking.com/freelancepro-me)
 16. [youngrf](http://www.startupranking.com/youngrf)
 17. [mnotify](http://www.startupranking.com/mnotify)
 18. [bandeka](http://www.startupranking.com/bandeka)

@@ -11,7 +11,7 @@
 9. [watcha](http://www.startupranking.com/watcha)
 10. [myrealtrip](http://www.startupranking.com/myrealtrip)
 11. [pikicast](http://www.startupranking.com/pikicast)
-12. [d.camp](http://www.startupranking.com/d.camp)
+12. [d.camp](http://www.startupranking.com/d-camp)
 13. [hanintel](http://www.startupranking.com/hanintel)
 14. [trazy](http://www.startupranking.com/trazy)
 15. [flitto](http://www.startupranking.com/flitto)
