@@ -14,7 +14,7 @@ This repo is maintained to provide the information regarding the Top 100 startup
 - [Contribution](#contribution)
 - [License](#license)
 
-## List of Top 100 Startups across the globe
+## List of Top 100 Startups across globe
 
 1. [behance](http://www.startupranking.com/behance) - United States
 2. [eventbrite](http://www.startupranking.com/eventbrite) - United States
@@ -121,139 +121,139 @@ This repo is maintained to provide the information regarding the Top 100 startup
 
 This list is sorted in descending order of the number of startups a country has. Click the country to view the startups.
 
-- [United States](countries/united-states.md)
-- [India](countries/india.md)
-- [United Kingdom](countries/united-kingdom.md)
-- [Brazil](countries/brazil.md)
-- [Spain](countries/spain.md)
-- [Canada](countries/canada.md)
-- [Indonesia](countries/indonesia.md)
-- [Italy](countries/italy.md)
-- [Colombia](countries/colombia.md)
-- [Germany](countries/germany.md)
-- [Argentina](countries/argentina.md)
-- [Egypt](countries/egypt.md)
-- [Russia](countries/russia.md)
-- [Peru](countries/peru.md)
-- [Australia](countries/australia.md)
-- [Nigeria](countries/nigeria.md)
-- [France](countries/france.md)
-- [Chile](countries/chile.md)
-- [Mexico](countries/mexico.md)
-- [Portugal](countries/portugal.md)
-- [Belgium](countries/belgium.md)
-- [Netherlands](countries/netherlands.md)
-- [Hungary](countries/hungary.md)
-- [Switzerland](countries/switzerland.md)
-- [Poland](countries/poland.md)
-- [Kenya](countries/kenya.md)
-- [Singapore](countries/singapore.md)
-- [Finland](countries/finland.md)
-- [Japan](countries/japan.md)
-- [Israel](countries/israel.md)
-- [Turkey](countries/turkey.md)
-- [Philippines](countries/philippines.md)
-- [South Africa](countries/south-africa.md)
-- [Sweden](countries/sweden.md)
-- [Ukraine](countries/ukraine.md)
-- [Romania](countries/romania.md)
-- [Austria](countries/austria.md)
-- [Lithuania](countries/lithuania.md)
-- [South Korea](countries/south-korea.md)
-- [Greece](countries/greece.md)
-- [Estonia](countries/estonia.md)
-- [Bulgaria](countries/bulgaria.md)
-- [Croatia](countries/croatia.md)
-- [Czech Republic](countries/czech-republic.md)
-- [Jordan](countries/jordan.md)
-- [Ghana](countries/ghana.md)
-- [Slovenia](countries/slovenia.md)
-- [Norway](countries/norway.md)
-- [Venezuela](countries/venezuela.md)
-- [Cameroon](countries/cameroon.md)
-- [Sri Lanka](countries/sri-lanka.md)
-- [Malaysia](countries/malaysia.md)
-- [Serbia](countries/serbia.md)
-- [Uruguay](countries/uruguay.md)
-- [Uganda](countries/uganda.md)
-- [Latvia](countries/latvia.md)
-- [Ireland](countries/ireland.md)
-- [Hong Kong Sar China](countries/hong-kong-sar-china.md)
-- [Thailand](countries/thailand.md)
-- [Morocco](countries/morocco.md)
-- [Botswana](countries/botswana.md)
-- [China](countries/china.md)
-- [Vietnam](countries/vietnam.md)
-- [Bolivia](countries/bolivia.md)
-- [Slovakia](countries/slovakia.md)
-- [Denmark](countries/denmark.md)
-- [Ethiopia](countries/ethiopia.md)
-- [Tunisia](countries/tunisia.md)
-- [Paraguay](countries/paraguay.md)
-- [United Arab Emirates](countries/united-arab-emirates.md)
-- [Belarus](countries/belarus.md)
-- [Ecuador](countries/ecuador.md)
-- [Angola](countries/angola.md)
-- [Pakistan](countries/pakistan.md)
-- [Taiwan](countries/taiwan.md)
-- [New Zealand](countries/new-zealand.md)
-- [Brunei](countries/brunei.md)
-- [Guatemala](countries/guatemala.md)
-- [Saudi Arabia](countries/saudi-arabia.md)
-- [Tanzania](countries/tanzania.md)
-- [Algeria](countries/algeria.md)
-- [Panama](countries/panama.md)
-- [Bosnia And Herzegovina](countries/bosnia-and-herzegovina.md)
-- [Bangladesh](countries/bangladesh.md)
-- [Puerto Rico](countries/puerto-rico.md)
-- [Benin](countries/benin.md)
-- [Senegal](countries/senegal.md)
-- [Costa Rica](countries/costa-rica.md)
-- [Mozambique](countries/mozambique.md)
-- [Moldova](countries/moldova.md)
-- [Zimbabwe](countries/zimbabwe.md)
-- [Nepal](countries/nepal.md)
-- [Malta](countries/malta.md)
-- [Iran](countries/iran.md)
-- [Maldives](countries/maldives.md)
-- [French Polynesia](countries/french-polynesia.md)
-- [Afghanistan](countries/afghanistan.md)
-- [Georgia](countries/georgia.md)
-- [Cote D Ivoire](countries/cote-d-ivoire.md)
-- [Lebanon](countries/lebanon.md)
-- [British Indian Ocean Territory](countries/british-indian-ocean-territory.md)
-- [European Union](countries/european-union.md)
-- [Somalia](countries/somalia.md)
-- [Iceland](countries/iceland.md)
-- [Sao Tome And Principe](countries/sao-tome-and-principe.md)
-- [Azerbaijan](countries/azerbaijan.md)
-- [Luxembourg](countries/luxembourg.md)
-- [Honduras](countries/honduras.md)
-- [El Salvador](countries/el-salvador.md)
-- [Andorra](countries/andorra.md)
-- [Cyprus](countries/cyprus.md)
-- [Uzbekistan](countries/uzbekistan.md)
-- [Rwanda](countries/rwanda.md)
-- [Swaziland](countries/swaziland.md)
-- [Faroe Islands](countries/faroe-islands.md)
-- [Libya](countries/libya.md)
-- [Sudan](countries/sudan.md)
-- [Nicaragua](countries/nicaragua.md)
-- [Albania](countries/albania.md)
-- [Kyrgyzstan](countries/kyrgyzstan.md)
-- [Burkina Faso](countries/burkina-faso.md)
-- [Armenia](countries/armenia.md)
-- [Dominican Republic](countries/dominican-republic.md)
-- [Cambodia](countries/cambodia.md)
-- [Palestinian Territories](countries/palestinian-territories.md)
-- [Macedonia](countries/macedonia.md)
-- [Bahrain](countries/bahrain.md)
-- [Mali](countries/mali.md)
-- [Burundi](countries/burundi.md)
-- [Guinea](countries/guinea.md)
-- [Myanmar Burma](countries/myanmar-burma.md)
-- [American Samoa](countries/american-samoa.md)
-- [Liechtenstein](countries/liechtenstein.md)
+- [United States](countries/united-states.md) - 3,576 startups
+- [India](countries/india.md) - 870 startups
+- [United Kingdom](countries/united-kingdom.md) - 504 startups
+- [Brazil](countries/brazil.md) - 391 startups
+- [Spain](countries/spain.md) - 356 startups
+- [Canada](countries/canada.md) - 351 startups
+- [Indonesia](countries/indonesia.md) - 294 startups
+- [Italy](countries/italy.md) - 270 startups
+- [Colombia](countries/colombia.md) - 258 startups
+- [Germany](countries/germany.md) - 243 startups
+- [Argentina](countries/argentina.md) - 229 startups
+- [Egypt](countries/egypt.md) - 227 startups
+- [Russia](countries/russia.md) - 220 startups
+- [Peru](countries/peru.md) - 219 startups
+- [Australia](countries/australia.md) - 214 startups
+- [Nigeria](countries/nigeria.md) - 209 startups
+- [France](countries/france.md) - 196 startups
+- [Chile](countries/chile.md) - 184 startups
+- [Mexico](countries/mexico.md) - 169 startups
+- [Portugal](countries/portugal.md) - 169 startups
+- [Belgium](countries/belgium.md) - 167 startups
+- [Netherlands](countries/netherlands.md) - 149 startups
+- [Hungary](countries/hungary.md) - 148 startups
+- [Switzerland](countries/switzerland.md) - 148 startups
+- [Poland](countries/poland.md) - 130 startups
+- [Kenya](countries/kenya.md) - 129 startups
+- [Singapore](countries/singapore.md) - 129 startups
+- [Finland](countries/finland.md) - 120 startups
+- [Japan](countries/japan.md) - 115 startups
+- [Israel](countries/israel.md) - 108 startups
+- [Turkey](countries/turkey.md) - 104 startups
+- [Philippines](countries/philippines.md) - 101 startups
+- [South Africa](countries/south-africa.md) - 101 startups
+- [Sweden](countries/sweden.md) - 96 startups
+- [Ukraine](countries/ukraine.md) - 77 startups
+- [Romania](countries/romania.md) - 73 startups
+- [Austria](countries/austria.md) - 70 startups
+- [Lithuania](countries/lithuania.md) - 61 startups
+- [South Korea](countries/south-korea.md) - 60 startups
+- [Greece](countries/greece.md) - 56 startups
+- [Estonia](countries/estonia.md) - 54 startups
+- [Bulgaria](countries/bulgaria.md) - 53 startups
+- [Croatia](countries/croatia.md) - 49 startups
+- [Czech Republic](countries/czech-republic.md) - 47 startups
+- [Jordan](countries/jordan.md) - 41 startups
+- [Ghana](countries/ghana.md) - 41 startups
+- [Slovenia](countries/slovenia.md) - 41 startups
+- [Norway](countries/norway.md) - 37 startups
+- [Venezuela](countries/venezuela.md) - 36 startups
+- [Cameroon](countries/cameroon.md) - 33 startups
+- [Sri Lanka](countries/sri-lanka.md) - 32 startups
+- [Malaysia](countries/malaysia.md) - 32 startups
+- [Serbia](countries/serbia.md) - 30 startups
+- [Uruguay](countries/uruguay.md) - 29 startups
+- [Uganda](countries/uganda.md) - 28 startups
+- [Latvia](countries/latvia.md) - 28 startups
+- [Ireland](countries/ireland.md) - 26 startups
+- [Hong Kong Sar China](countries/hong-kong-sar-china.md) - 24 startups
+- [Thailand](countries/thailand.md) - 23 startups
+- [Morocco](countries/morocco.md) - 21 startups
+- [Botswana](countries/botswana.md) - 20 startups
+- [China](countries/china.md) - 19 startups
+- [Vietnam](countries/vietnam.md) - 18 startups
+- [Bolivia](countries/bolivia.md) - 17 startups
+- [Slovakia](countries/slovakia.md) - 17 startups
+- [Denmark](countries/denmark.md) - 15 startups
+- [Ethiopia](countries/ethiopia.md) - 13 startups
+- [Tunisia](countries/tunisia.md) - 13 startups
+- [Paraguay](countries/paraguay.md) - 13 startups
+- [United Arab Emirates](countries/united-arab-emirates.md) - 12 startups
+- [Belarus](countries/belarus.md) - 12 startups
+- [Ecuador](countries/ecuador.md) - 12 startups
+- [Angola](countries/angola.md) - 11 startups
+- [Pakistan](countries/pakistan.md) - 10 startups
+- [Taiwan](countries/taiwan.md) - 9 startups
+- [New Zealand](countries/new-zealand.md) - 9 startups
+- [Brunei](countries/brunei.md) - 6 startups
+- [Guatemala](countries/guatemala.md) - 6 startups
+- [Saudi Arabia](countries/saudi-arabia.md) - 6 startups
+- [Tanzania](countries/tanzania.md) - 6 startups
+- [Algeria](countries/algeria.md) - 5 startups
+- [Panama](countries/panama.md) - 4 startups
+- [Bosnia And Herzegovina](countries/bosnia-and-herzegovina.md) - 4 startups
+- [Bangladesh](countries/bangladesh.md) - 4 startups
+- [Puerto Rico](countries/puerto-rico.md) - 4 startups
+- [Benin](countries/benin.md) - 3 startups
+- [Senegal](countries/senegal.md) - 3 startups
+- [Costa Rica](countries/costa-rica.md) - 3 startups
+- [Mozambique](countries/mozambique.md) - 3 startups
+- [Moldova](countries/moldova.md) - 3 startups
+- [Zimbabwe](countries/zimbabwe.md) - 3 startups
+- [Nepal](countries/nepal.md) - 3 startups
+- [Malta](countries/malta.md) - 2 startups
+- [Iran](countries/iran.md) - 2 startups
+- [Maldives](countries/maldives.md) - 2 startups
+- [French Polynesia](countries/french-polynesia.md) - 2 startups
+- [Afghanistan](countries/afghanistan.md) - 2 startups
+- [Georgia](countries/georgia.md) - 2 startups
+- [Cote D Ivoire](countries/cote-d-ivoire.md) - 2 startups
+- [Lebanon](countries/lebanon.md) - 2 startups
+- [British Indian Ocean Territory](countries/british-indian-ocean-territory.md) - 2 startups
+- [European Union](countries/european-union.md) - 2 startups
+- [Somalia](countries/somalia.md) - 1 startup
+- [Iceland](countries/iceland.md) - 1 startup
+- [Sao Tome And Principe](countries/sao-tome-and-principe.md) - 1 startup
+- [Azerbaijan](countries/azerbaijan.md) - 1 startup
+- [Luxembourg](countries/luxembourg.md) - 1 startup
+- [Honduras](countries/honduras.md) - 1 startup
+- [El Salvador](countries/el-salvador.md) - 1 startup
+- [Andorra](countries/andorra.md) - 1 startup
+- [Cyprus](countries/cyprus.md) - 1 startup
+- [Uzbekistan](countries/uzbekistan.md) - 1 startup
+- [Rwanda](countries/rwanda.md) - 1 startup
+- [Swaziland](countries/swaziland.md) - 1 startup
+- [Faroe Islands](countries/faroe-islands.md) - 1 startup
+- [Libya](countries/libya.md) - 1 startup
+- [Sudan](countries/sudan.md) - 1 startup
+- [Nicaragua](countries/nicaragua.md) - 1 startup
+- [Albania](countries/albania.md) - 1 startup
+- [Kyrgyzstan](countries/kyrgyzstan.md) - 1 startup
+- [Burkina Faso](countries/burkina-faso.md) - 1 startup
+- [Armenia](countries/armenia.md) - 1 startup
+- [Dominican Republic](countries/dominican-republic.md) - 1 startup
+- [Cambodia](countries/cambodia.md) - 1 startup
+- [Palestinian Territories](countries/palestinian-territories.md) - 1 startup
+- [Macedonia](countries/macedonia.md) - 1 startup
+- [Bahrain](countries/bahrain.md) - 1 startup
+- [Mali](countries/mali.md) - 1 startup
+- [Burundi](countries/burundi.md) - 1 startup
+- [Guinea](countries/guinea.md) - 1 startup
+- [Myanmar Burma](countries/myanmar-burma.md) - 1 startup
+- [American Samoa](countries/american-samoa.md) - 1 startup
+- [Liechtenstein](countries/liechtenstein.md) - 1 startup
 
 ## How is it dynamic?
 
