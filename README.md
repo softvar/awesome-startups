@@ -10,7 +10,7 @@ This repo is maintained to provide the information regarding the Top 100 startup
 
 - [List of Top 100 Startups](#list-of-top-100-startups-across-globe)
 - [List of top Startups based on their location](#list-of-countries)
-- [Implementation and Flow](#how-it-is-dynamic)
+- [Implementation and Flow](#how-is-it-dynamic?)
 - [Contribution](#contribution)
 - [License](#license)
 
@@ -174,8 +174,8 @@ This list is sorted in descending order of the number of startups a country has
 - [Malaysia](countries/malaysia.md)
 - [Serbia](countries/serbia.md)
 - [Uruguay](countries/uruguay.md)
-- [Latvia](countries/latvia.md)
 - [Uganda](countries/uganda.md)
+- [Latvia](countries/latvia.md)
 - [Ireland](countries/ireland.md)
 - [Hong Kong Sar China](countries/hong-kong-sar-china.md)
 - [Thailand](countries/thailand.md)
@@ -201,17 +201,19 @@ This list is sorted in descending order of the number of startups a country has
 - [Saudi Arabia](countries/saudi-arabia.md)
 - [Tanzania](countries/tanzania.md)
 - [Algeria](countries/algeria.md)
+- [Panama](countries/panama.md)
 - [Bosnia And Herzegovina](countries/bosnia-and-herzegovina.md)
 - [Bangladesh](countries/bangladesh.md)
 - [Puerto Rico](countries/puerto-rico.md)
-- [Panama](countries/panama.md)
+- [Benin](countries/benin.md)
+- [Senegal](countries/senegal.md)
 - [Costa Rica](countries/costa-rica.md)
 - [Mozambique](countries/mozambique.md)
 - [Moldova](countries/moldova.md)
 - [Zimbabwe](countries/zimbabwe.md)
 - [Nepal](countries/nepal.md)
-- [Benin](countries/benin.md)
-- [Senegal](countries/senegal.md)
+- [Malta](countries/malta.md)
+- [Iran](countries/iran.md)
 - [Maldives](countries/maldives.md)
 - [French Polynesia](countries/french-polynesia.md)
 - [Afghanistan](countries/afghanistan.md)
@@ -220,8 +222,6 @@ This list is sorted in descending order of the number of startups a country has
 - [Lebanon](countries/lebanon.md)
 - [British Indian Ocean Territory](countries/british-indian-ocean-territory.md)
 - [European Union](countries/european-union.md)
-- [Malta](countries/malta.md)
-- [Iran](countries/iran.md)
 - [Somalia](countries/somalia.md)
 - [Iceland](countries/iceland.md)
 - [Sao Tome And Principe](countries/sao-tome-and-principe.md)
@@ -254,7 +254,7 @@ This list is sorted in descending order of the number of startups a country has
 - [American Samoa](countries/american-samoa.md)
 - [Liechtenstein](countries/liechtenstein.md)
 
-## How it is dynamic
+## How is it dynamic?
 
 The whole work is dependent on the data provided by `startupranking.com`. All the lists here are updated each day with the up-to-date information on `startupranking.com`. Here it follows:
 

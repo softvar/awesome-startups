@@ -1,4 +1,4 @@
-## How it is dynamic
+## How is it dynamic?
 
 The whole work is dependent on the data provided by `startupranking.com`. All the lists here are updated each day with the up-to-date information on `startupranking.com`. Here it follows:
 
