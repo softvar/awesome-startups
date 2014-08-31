@@ -10,106 +10,106 @@ This repo is maintained to provide the information regarding the Top 100 startup
 
 ## List of Top 100 Startups across globe
 
-1. [behance](http://www.startupranking.com/behance)
-2. [eventbrite](http://www.startupranking.com/eventbrite)
-3. [mailchimp](http://www.startupranking.com/mailchimp)
-4. [moz](http://www.startupranking.com/moz)
-5. [deezer](http://www.startupranking.com/deezer)
-6. [prezi](http://www.startupranking.com/prezi)
-7. [hubspot](http://www.startupranking.com/hubspot)
-8. [twitch](http://www.startupranking.com/twitch)
-9. [bufferapp](http://www.startupranking.com/bufferapp)
-10. [airbnb](http://www.startupranking.com/airbnb)
-11. [indeed](http://www.startupranking.com/indeed)
-12. [thinkgeek](http://www.startupranking.com/thinkgeek)
-13. [quora](http://www.startupranking.com/quora)
-14. [tesla-motors](http://www.startupranking.com/tesla-motors)
-15. [grooveshark](http://www.startupranking.com/grooveshark)
-16. [klout](http://www.startupranking.com/klout)
-17. [fiverr](http://www.startupranking.com/fiverr)
-18. [zendesk](http://www.startupranking.com/zendesk)
-19. [9gag](http://www.startupranking.com/9gag)
-20. [big-commerce](http://www.startupranking.com/big-commerce)
-21. [about.me](http://www.startupranking.com/about.me)
-22. [ask.fm](http://www.startupranking.com/ask.fm)
-23. [atlassian](http://www.startupranking.com/atlassian)
-24. [uber](http://www.startupranking.com/uber)
-25. [wix](http://www.startupranking.com/wix)
-26. [kakaku](http://www.startupranking.com/kakaku)
-27. [box](http://www.startupranking.com/box)
-28. [menéame](http://www.startupranking.com/menéame)
-29. [mixi](http://www.startupranking.com/mixi)
-30. [taringa!](http://www.startupranking.com/taringa!)
-31. [ustream](http://www.startupranking.com/ustream)
-32. [treehouse](http://www.startupranking.com/treehouse)
-33. [lumosity](http://www.startupranking.com/lumosity)
-34. [gilt](http://www.startupranking.com/gilt)
-35. [badoo](http://www.startupranking.com/badoo)
-36. [wanelo](http://www.startupranking.com/wanelo)
-37. [duolingo](http://www.startupranking.com/duolingo)
-38. [codeschool](http://www.startupranking.com/codeschool)
-39. [piwik](http://www.startupranking.com/piwik)
-40. [songkick](http://www.startupranking.com/songkick)
-41. [coursera](http://www.startupranking.com/coursera)
-42. [digital-journal](http://www.startupranking.com/digital-journal)
-43. [tabelog](http://www.startupranking.com/tabelog)
-44. [mint](http://www.startupranking.com/mint)
-45. [square](http://www.startupranking.com/square)
-46. [8tracks](http://www.startupranking.com/8tracks)
-47. [buffer](http://www.startupranking.com/buffer)
-48. [new-relic](http://www.startupranking.com/new-relic)
-49. [newrelic](http://www.startupranking.com/newrelic)
-50. [socialbakers](http://www.startupranking.com/socialbakers)
-51. [spacex](http://www.startupranking.com/spacex)
-52. [ifttt](http://www.startupranking.com/ifttt)
-53. [designmodo](http://www.startupranking.com/designmodo)
-54. [songza](http://www.startupranking.com/songza)
-55. [infogr.am](http://www.startupranking.com/infogr.am)
-56. [freshdesk](http://www.startupranking.com/freshdesk)
-57. [fab](http://www.startupranking.com/fab)
-58. [liveperson](http://www.startupranking.com/liveperson)
-59. [wetransfer](http://www.startupranking.com/wetransfer)
-60. [nginx](http://www.startupranking.com/nginx)
-61. [zozotown](http://www.startupranking.com/zozotown)
-62. [newscred](http://www.startupranking.com/newscred)
-63. [unbounce](http://www.startupranking.com/unbounce)
-64. [justin.tv](http://www.startupranking.com/justin.tv)
-65. [nationbuilder](http://www.startupranking.com/nationbuilder)
-66. [buysellads](http://www.startupranking.com/buysellads)
-67. [roblox](http://www.startupranking.com/roblox)
-68. [pearltrees](http://www.startupranking.com/pearltrees)
-69. [scoop.it](http://www.startupranking.com/scoop.it)
-70. [wechat](http://www.startupranking.com/wechat)
-71. [sendgrid](http://www.startupranking.com/sendgrid)
-72. [4travel](http://www.startupranking.com/4travel)
-73. [angellist](http://www.startupranking.com/angellist)
-74. [ranker](http://www.startupranking.com/ranker)
-75. [criteo](http://www.startupranking.com/criteo)
-76. [lintas.me](http://www.startupranking.com/lintas.me)
-77. [basecamp](http://www.startupranking.com/basecamp)
-78. [tuenti](http://www.startupranking.com/tuenti)
-79. [app-annie](http://www.startupranking.com/app-annie)
-80. [bigfish](http://www.startupranking.com/bigfish)
-81. [paper.li](http://www.startupranking.com/paper.li)
-82. [rebelmouse](http://www.startupranking.com/rebelmouse)
-83. [giphy](http://www.startupranking.com/giphy)
-84. [snapchat](http://www.startupranking.com/snapchat)
-85. [pixlr](http://www.startupranking.com/pixlr)
-86. [nanapi](http://www.startupranking.com/nanapi)
-87. [bloglovin](http://www.startupranking.com/bloglovin)
-88. [followgram](http://www.startupranking.com/followgram)
-89. [twilio](http://www.startupranking.com/twilio)
-90. [spreaker](http://www.startupranking.com/spreaker)
-91. [waze](http://www.startupranking.com/waze)
-92. [fxstreet.com](http://www.startupranking.com/fxstreet.com)
-93. [conduit](http://www.startupranking.com/conduit)
-94. [logmein](http://www.startupranking.com/logmein)
-95. [zulily](http://www.startupranking.com/zulily)
-96. [skift](http://www.startupranking.com/skift)
-97. [viadeo](http://www.startupranking.com/viadeo)
-98. [peopleperhour](http://www.startupranking.com/peopleperhour)
-99. [wunderlist](http://www.startupranking.com/wunderlist)
-100. [wetpaint](http://www.startupranking.com/wetpaint)
+1. [behance](http://www.startupranking.com/behance) - United States
+2. [eventbrite](http://www.startupranking.com/eventbrite) - United States
+3. [mailchimp](http://www.startupranking.com/mailchimp) - United States
+4. [moz](http://www.startupranking.com/moz) - United States
+5. [deezer](http://www.startupranking.com/deezer) - France
+6. [prezi](http://www.startupranking.com/prezi) - Hungary
+7. [hubspot](http://www.startupranking.com/hubspot) - United States
+8. [twitch](http://www.startupranking.com/twitch) - United States
+9. [bufferapp](http://www.startupranking.com/bufferapp) - United States
+10. [airbnb](http://www.startupranking.com/airbnb) - United States
+11. [indeed](http://www.startupranking.com/indeed) - United States
+12. [thinkgeek](http://www.startupranking.com/thinkgeek) - United States
+13. [quora](http://www.startupranking.com/quora) - United States
+14. [tesla-motors](http://www.startupranking.com/tesla-motors) - United States
+15. [grooveshark](http://www.startupranking.com/grooveshark) - United States
+16. [klout](http://www.startupranking.com/klout) - United States
+17. [fiverr](http://www.startupranking.com/fiverr) - Israel
+18. [zendesk](http://www.startupranking.com/zendesk) - United States
+19. [9gag](http://www.startupranking.com/9gag) - Hong Kong SAR China
+20. [big-commerce](http://www.startupranking.com/big-commerce) - Australia
+21. [about.me](http://www.startupranking.com/about.me) - United States
+22. [ask.fm](http://www.startupranking.com/ask.fm) - Latvia
+23. [atlassian](http://www.startupranking.com/atlassian) - Australia
+24. [uber](http://www.startupranking.com/uber) - United States
+25. [wix](http://www.startupranking.com/wix) - Israel
+26. [kakaku](http://www.startupranking.com/kakaku) - Japan
+27. [box](http://www.startupranking.com/box) - United States
+28. [menéame](http://www.startupranking.com/menéame) - Spain
+29. [mixi](http://www.startupranking.com/mixi) - Japan
+30. [taringa!](http://www.startupranking.com/taringa!) - Argentina
+31. [ustream](http://www.startupranking.com/ustream) - Hungary
+32. [treehouse](http://www.startupranking.com/treehouse) - United States
+33. [lumosity](http://www.startupranking.com/lumosity) - United States
+34. [gilt](http://www.startupranking.com/gilt) - United States
+35. [badoo](http://www.startupranking.com/badoo) - United Kingdom
+36. [wanelo](http://www.startupranking.com/wanelo) - United States
+37. [duolingo](http://www.startupranking.com/duolingo) - Guatemala
+38. [codeschool](http://www.startupranking.com/codeschool) - United States
+39. [piwik](http://www.startupranking.com/piwik) - United States
+40. [songkick](http://www.startupranking.com/songkick) - United Kingdom
+41. [coursera](http://www.startupranking.com/coursera) - United States
+42. [digital-journal](http://www.startupranking.com/digital-journal) - Canada
+43. [tabelog](http://www.startupranking.com/tabelog) - Japan
+44. [mint](http://www.startupranking.com/mint) - United States
+45. [square](http://www.startupranking.com/square) - United States
+46. [8tracks](http://www.startupranking.com/8tracks) - United States
+47. [buffer](http://www.startupranking.com/buffer) - United States
+48. [new-relic](http://www.startupranking.com/new-relic) - United States
+49. [newrelic](http://www.startupranking.com/newrelic) - United States
+50. [socialbakers](http://www.startupranking.com/socialbakers) - Czech Republic
+51. [spacex](http://www.startupranking.com/spacex) - United States
+52. [ifttt](http://www.startupranking.com/ifttt) - United States
+53. [designmodo](http://www.startupranking.com/designmodo) - United States
+54. [songza](http://www.startupranking.com/songza) - United States
+55. [infogr.am](http://www.startupranking.com/infogr.am) - Latvia
+56. [freshdesk](http://www.startupranking.com/freshdesk) - India
+57. [fab](http://www.startupranking.com/fab) - United States
+58. [liveperson](http://www.startupranking.com/liveperson) - United States
+59. [wetransfer](http://www.startupranking.com/wetransfer) - Netherlands
+60. [nginx](http://www.startupranking.com/nginx) - United States
+61. [zozotown](http://www.startupranking.com/zozotown) - Japan
+62. [newscred](http://www.startupranking.com/newscred) - United States
+63. [unbounce](http://www.startupranking.com/unbounce) - Canada
+64. [justin.tv](http://www.startupranking.com/justin.tv) - United States
+65. [nationbuilder](http://www.startupranking.com/nationbuilder) - United States
+66. [buysellads](http://www.startupranking.com/buysellads) - United States
+67. [roblox](http://www.startupranking.com/roblox) - United States
+68. [pearltrees](http://www.startupranking.com/pearltrees) - France
+69. [scoop.it](http://www.startupranking.com/scoop.it) - France
+70. [wechat](http://www.startupranking.com/wechat) - China
+71. [sendgrid](http://www.startupranking.com/sendgrid) - United States
+72. [4travel](http://www.startupranking.com/4travel) - Japan
+73. [angellist](http://www.startupranking.com/angellist) - United States
+74. [ranker](http://www.startupranking.com/ranker) - United States
+75. [criteo](http://www.startupranking.com/criteo) - France
+76. [lintas.me](http://www.startupranking.com/lintas.me) - Indonesia
+77. [basecamp](http://www.startupranking.com/basecamp) - United States
+78. [tuenti](http://www.startupranking.com/tuenti) - Spain
+79. [app-annie](http://www.startupranking.com/app-annie) - United States
+80. [bigfish](http://www.startupranking.com/bigfish) - United States
+81. [paper.li](http://www.startupranking.com/paper.li) - Switzerland
+82. [rebelmouse](http://www.startupranking.com/rebelmouse) - United States
+83. [giphy](http://www.startupranking.com/giphy) - United States
+84. [snapchat](http://www.startupranking.com/snapchat) - United States
+85. [pixlr](http://www.startupranking.com/pixlr) - Sweden
+86. [nanapi](http://www.startupranking.com/nanapi) - Japan
+87. [bloglovin](http://www.startupranking.com/bloglovin) - Sweden
+88. [followgram](http://www.startupranking.com/followgram) - United States
+89. [twilio](http://www.startupranking.com/twilio) - United States
+90. [spreaker](http://www.startupranking.com/spreaker) - United States
+91. [waze](http://www.startupranking.com/waze) - Israel
+92. [fxstreet.com](http://www.startupranking.com/fxstreet.com) - Spain
+93. [conduit](http://www.startupranking.com/conduit) - Israel
+94. [logmein](http://www.startupranking.com/logmein) - Hungary
+95. [zulily](http://www.startupranking.com/zulily) - United States
+96. [skift](http://www.startupranking.com/skift) - United States
+97. [viadeo](http://www.startupranking.com/viadeo) - France
+98. [peopleperhour](http://www.startupranking.com/peopleperhour) - United Kingdom
+99. [wunderlist](http://www.startupranking.com/wunderlist) - United States
+100. [wetpaint](http://www.startupranking.com/wetpaint) - United States
 
 ## List of Countries
 
