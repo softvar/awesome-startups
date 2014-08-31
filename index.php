@@ -71,7 +71,7 @@ foreach ($startupNames[0] as $key => $value) {
 $readmeOutput = insertNewline($readmeOutput, 1);
 $readmeOutput = appendText($readmeOutput, '## List of Countries');
 $readmeOutput = insertNewline($readmeOutput, 2);
-$readmeOutput = appendText($readmeOutput, 'This list is sorted in descending order of the number of startups a country has');
+$readmeOutput = appendText($readmeOutput, 'This list is sorted in descending order of the number of startups a country has. Click the country to view the startups.');
 $readmeOutput = insertNewline($readmeOutput, 1);
 
 foreach ($listOfSupportedCountries['countries'] as $key => $value) {

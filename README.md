@@ -119,7 +119,8 @@ This repo is maintained to provide the information regarding the Top 100 startup
 
 ## List of Countries
 
-This list is sorted in descending order of the number of startups a country has
+This list is sorted in descending order of the number of startups a country has. Click the country to view the startups.
+
 - [United States](countries/united-states.md)
 - [India](countries/india.md)
 - [United Kingdom](countries/united-kingdom.md)
