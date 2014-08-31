@@ -50,12 +50,18 @@ $url          = curl($make);
 $regex        = "/<div class=\"name\"?>.*<a.*?>([^`]*?)<\/a><\/div>/";
 
 preg_match_all($regex, $url, $startupNames);
+
+$doc=new DOMDocument();
+@$doc->loadHTML($url);
+$xml=simplexml_import_dom($doc); // just to make xpath more simple
+$locations=$xml->xpath('//*[@class="f32"]//img');
+
 foreach ($startupNames[0] as $key => $value) {
     $value = strtolower(strip_tags($value));
     $value = str_replace(' ', '-', $value);
     if ($value != '') {
         $startupUrl = $BASE_URL . lcfirst($value);
-        $readmeOutput = appendText($readmeOutput, ($key + 1) . '. [' . $value . '](' . $startupUrl . ')');
+        $readmeOutput = appendText($readmeOutput, ($key + 1) . '. [' . $value . '](' . $startupUrl . ') - ' . $locations[$key]['title']);
         $readmeOutput = insertNewline($readmeOutput, 1);
     }
 }
@@ -81,7 +87,7 @@ $postReadmeContent = appendText($postReadmeContent, file_get_contents('post-read
 $readmeOutput = appendText($readmeOutput, $postReadmeContent);
 file_put_contents('README.md', $readmeOutput);
 
-for ($j = 0; $j < 2; $j++) { // $j < count($listOfSupportedCountries)
+for ($j = 0; $j < count($listOfSupportedCountries['countries']); $j++) { // $j < count($listOfSupportedCountries)
     $hyphenSeparatedCountryName = $listOfSupportedCountries['countries'][$j];
     //echo ucfirst($value);
     $splitCountryName           = explode("-", $hyphenSeparatedCountryName);
