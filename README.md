@@ -8,13 +8,13 @@ This repo is maintained to provide the information regarding the Top 100 startup
 
 ## Contents
 
-- [List of Top 100 Startups](#list-of-top-100-startups-across-globe)
+- [List of Top 100 Startups](#list-of-top-100-startups-across-the-globe)
 - [List of top Startups based on their location](#list-of-countries)
 - [Implementation and Flow](#how-is-it-dynamic)
 - [Contribution](#contribution)
 - [License](#license)
 
-## List of Top 100 Startups across globe
+## List of Top 100 Startups across the globe
 
 1. [behance](http://www.startupranking.com/behance) - United States
 2. [eventbrite](http://www.startupranking.com/eventbrite) - United States
