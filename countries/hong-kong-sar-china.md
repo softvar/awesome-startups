@@ -1,4 +1,4 @@
-## Hong Kong Sar China
+## Top Ranked Startups in Hong Kong Sar China
 
 1. [9gag](http://www.startupranking.com/9gag)
 2. [foodie](http://www.startupranking.com/foodie)

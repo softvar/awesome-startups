@@ -1,4 +1,4 @@
-## Angola
+## Top Ranked Startups in Angola
 
 1. [kallun](http://www.startupranking.com/kallun)
 2. [ngola-yetu](http://www.startupranking.com/ngola-yetu)

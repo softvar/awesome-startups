@@ -1,4 +1,4 @@
-## Chile
+## Top Ranked Startups in Chile
 
 1. [chevereto](http://www.startupranking.com/chevereto)
 2. [goplaceit](http://www.startupranking.com/goplaceit)

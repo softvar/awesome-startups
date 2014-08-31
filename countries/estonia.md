@@ -1,4 +1,4 @@
-## Estonia
+## Top Ranked Startups in Estonia
 
 1. [toggl](http://www.startupranking.com/toggl)
 2. [meie-tallinn](http://www.startupranking.com/meie-tallinn)

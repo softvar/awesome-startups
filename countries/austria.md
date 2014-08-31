@@ -1,4 +1,4 @@
-## Austria
+## Top Ranked Startups in Austria
 
 1. [runtastic](http://www.startupranking.com/runtastic)
 2. [tupalo](http://www.startupranking.com/tupalo)

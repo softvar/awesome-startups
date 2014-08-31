@@ -1,4 +1,4 @@
-## Tanzania
+## Top Ranked Startups in Tanzania
 
 1. [kivuko](http://www.startupranking.com/kivuko)
 2. [aim-group](http://www.startupranking.com/aim-group)

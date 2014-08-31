@@ -1,4 +1,4 @@
-## Mozambique
+## Top Ranked Startups in Mozambique
 
 1. [ux](http://www.startupranking.com/ux)
 2. [mozambikes](http://www.startupranking.com/mozambikes)

@@ -1,4 +1,4 @@
-## Algeria
+## Top Ranked Startups in Algeria
 
 1. [epay.dz](http://www.startupranking.com/epay-dz)
 2. [jib.li](http://www.startupranking.com/jib-li)

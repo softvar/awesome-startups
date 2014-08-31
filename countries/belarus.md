@@ -1,4 +1,4 @@
-## Belarus
+## Top Ranked Startups in Belarus
 
 1. [maesens.by](http://www.startupranking.com/maesens-by)
 2. [ikantam](http://www.startupranking.com/ikantam)

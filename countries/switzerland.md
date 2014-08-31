@@ -1,4 +1,4 @@
-## Switzerland
+## Top Ranked Startups in Switzerland
 
 1. [paper.li](http://www.startupranking.com/paper-li)
 2. [getyourguide](http://www.startupranking.com/getyourguide)

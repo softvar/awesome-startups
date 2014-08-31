@@ -1,4 +1,4 @@
-## Hungary
+## Top Ranked Startups in Hungary
 
 1. [prezi](http://www.startupranking.com/prezi)
 2. [ustream](http://www.startupranking.com/ustream)

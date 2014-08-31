@@ -1,4 +1,4 @@
-## Ethiopia
+## Top Ranked Startups in Ethiopia
 
 1. [mekina](http://www.startupranking.com/mekina)
 2. [mobile-jobs-ethiopia](http://www.startupranking.com/mobile-jobs-ethiopia)

@@ -1,4 +1,4 @@
-## Benin
+## Top Ranked Startups in Benin
 
 1. [gounna](http://www.startupranking.com/gounna)
 2. [facturexpress](http://www.startupranking.com/facturexpress)

@@ -1,4 +1,4 @@
-## Germany
+## Top Ranked Startups in Germany
 
 1. [jimdo](http://www.startupranking.com/jimdo)
 2. [dawanda](http://www.startupranking.com/dawanda)

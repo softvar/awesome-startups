@@ -1,4 +1,4 @@
-## Guatemala
+## Top Ranked Startups in Guatemala
 
 1. [duolingo](http://www.startupranking.com/duolingo)
 2. [deeder](http://www.startupranking.com/deeder)

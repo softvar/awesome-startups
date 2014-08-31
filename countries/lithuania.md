@@ -1,4 +1,4 @@
-## Lithuania
+## Top Ranked Startups in Lithuania
 
 1. [xtgem](http://www.startupranking.com/xtgem)
 2. [mobofree](http://www.startupranking.com/mobofree)

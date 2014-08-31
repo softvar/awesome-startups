@@ -1,4 +1,4 @@
-## Latvia
+## Top Ranked Startups in Latvia
 
 1. [ask.fm](http://www.startupranking.com/ask-fm)
 2. [infogr.am](http://www.startupranking.com/infogr-am)

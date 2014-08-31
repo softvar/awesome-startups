@@ -1,4 +1,4 @@
-## New Zealand
+## Top Ranked Startups in New Zealand
 
 1. [zenfotomatic](http://www.startupranking.com/zenfotomatic)
 2. [thundermaps](http://www.startupranking.com/thundermaps)

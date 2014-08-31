@@ -1,4 +1,4 @@
-## Cameroon
+## Top Ranked Startups in Cameroon
 
 1. [wasamundi](http://www.startupranking.com/wasamundi)
 2. [njorku](http://www.startupranking.com/njorku)

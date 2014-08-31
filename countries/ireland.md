@@ -1,4 +1,4 @@
-## Ireland
+## Top Ranked Startups in Ireland
 
 1. [language-bookings](http://www.startupranking.com/language-bookings)
 2. [jobbaloon](http://www.startupranking.com/jobbaloon)

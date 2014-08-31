@@ -1,4 +1,4 @@
-## Ecuador
+## Top Ranked Startups in Ecuador
 
 1. [revolucionatuprecio](http://www.startupranking.com/revolucionatuprecio)
 2. [Área-naranja](http://www.startupranking.com/area-naranja)

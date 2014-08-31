@@ -1,4 +1,4 @@
-## France
+## Top Ranked Startups in France
 
 1. [deezer](http://www.startupranking.com/deezer)
 2. [pearltrees](http://www.startupranking.com/pearltrees)

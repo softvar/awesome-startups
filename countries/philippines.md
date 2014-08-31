@@ -1,4 +1,4 @@
-## Philippines
+## Top Ranked Startups in Philippines
 
 1. [lazada-philippines](http://www.startupranking.com/lazada-philippines)
 2. [metrodeal](http://www.startupranking.com/metrodeal)

@@ -1,4 +1,4 @@
-## Uruguay
+## Top Ranked Startups in Uruguay
 
 1. [fengoffice](http://www.startupranking.com/fengoffice)
 2. [infocasas](http://www.startupranking.com/infocasas)

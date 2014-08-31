@@ -1,4 +1,4 @@
-## Uganda
+## Top Ranked Startups in Uganda
 
 1. [mara-online](http://www.startupranking.com/mara-online)
 2. [brainshare](http://www.startupranking.com/brainshare)

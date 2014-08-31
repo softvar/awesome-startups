@@ -1,4 +1,4 @@
-## Croatia
+## Top Ranked Startups in Croatia
 
 1. [bazzar.hr](http://www.startupranking.com/bazzar-hr)
 2. [madbarz](http://www.startupranking.com/madbarz)

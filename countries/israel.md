@@ -1,4 +1,4 @@
-## Israel
+## Top Ranked Startups in Israel
 
 1. [fiverr](http://www.startupranking.com/fiverr)
 2. [wix](http://www.startupranking.com/wix)

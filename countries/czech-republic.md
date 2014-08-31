@@ -1,4 +1,4 @@
-## Czech Republic
+## Top Ranked Startups in Czech Republic
 
 1. [socialbakers](http://www.startupranking.com/socialbakers)
 2. [apiary.io](http://www.startupranking.com/apiary-io)

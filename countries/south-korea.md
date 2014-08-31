@@ -1,4 +1,4 @@
-## South Korea
+## Top Ranked Startups in South Korea
 
 1. [kakaotalk](http://www.startupranking.com/kakaotalk)
 2. [onoffmix](http://www.startupranking.com/onoffmix)

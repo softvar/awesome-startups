@@ -1,4 +1,4 @@
-## Bosnia And Herzegovina
+## Top Ranked Startups in Bosnia And Herzegovina
 
 1. [kolikoo](http://www.startupranking.com/kolikoo)
 2. [ekupi](http://www.startupranking.com/ekupi)

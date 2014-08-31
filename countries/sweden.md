@@ -1,4 +1,4 @@
-## Sweden
+## Top Ranked Startups in Sweden
 
 1. [pixlr](http://www.startupranking.com/pixlr)
 2. [bloglovin](http://www.startupranking.com/bloglovin)

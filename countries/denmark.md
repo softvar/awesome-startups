@@ -1,4 +1,4 @@
-## Denmark
+## Top Ranked Startups in Denmark
 
 1. [iconfinder](http://www.startupranking.com/iconfinder)
 2. [tinyrocketlab](http://www.startupranking.com/tinyrocketlab)

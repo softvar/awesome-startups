@@ -121,7 +121,7 @@ for ($j = 0; $j < count($listOfSupportedCountries['countries']); $j++) {
     for ($i = 1; $i < count($splitCountryName); $i++) {
         $countryName = $countryName . " " . ucfirst($splitCountryName[$i]);
     }
-    $countryOutput = '## ' . $countryName;
+    $countryOutput = '## Top Ranked Startups in ' . $countryName;
     $countryOutput = insertNewline($countryOutput, 2);
     $make          = 'http://www.startupranking.com/top/' . $hyphenSeparatedCountryName;
     // get page contents

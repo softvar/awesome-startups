@@ -1,4 +1,4 @@
-## Slovakia
+## Top Ranked Startups in Slovakia
 
 1. [ceremony](http://www.startupranking.com/ceremony)
 2. [silver.ag](http://www.startupranking.com/silver-ag)

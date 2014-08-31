@@ -1,4 +1,4 @@
-## Nepal
+## Top Ranked Startups in Nepal
 
 1. [himalayan-wonders](http://www.startupranking.com/himalayan-wonders)
 2. [mim-das-tamang](http://www.startupranking.com/mim-das-tamang)

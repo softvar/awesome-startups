@@ -1,4 +1,4 @@
-## Slovenia
+## Top Ranked Startups in Slovenia
 
 1. [fieldoo](http://www.startupranking.com/fieldoo)
 2. [open-hours](http://www.startupranking.com/open-hours)

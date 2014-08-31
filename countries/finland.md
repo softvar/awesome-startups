@@ -1,4 +1,4 @@
-## Finland
+## Top Ranked Startups in Finland
 
 1. [supercell](http://www.startupranking.com/supercell)
 2. [thinglink](http://www.startupranking.com/thinglink)

@@ -1,4 +1,4 @@
-## Norway
+## Top Ranked Startups in Norway
 
 1. [symphonical](http://www.startupranking.com/symphonical)
 2. [justcoin](http://www.startupranking.com/justcoin)

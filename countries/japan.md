@@ -1,4 +1,4 @@
-## Japan
+## Top Ranked Startups in Japan
 
 1. [kakaku](http://www.startupranking.com/kakaku)
 2. [mixi](http://www.startupranking.com/mixi)

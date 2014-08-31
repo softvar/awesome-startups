@@ -1,4 +1,4 @@
-## Ghana
+## Top Ranked Startups in Ghana
 
 1. [retailtower](http://www.startupranking.com/retailtower)
 2. [smsgh](http://www.startupranking.com/smsgh)

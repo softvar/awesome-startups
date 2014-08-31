@@ -1,4 +1,4 @@
-## Belgium
+## Top Ranked Startups in Belgium
 
 1. [twoo](http://www.startupranking.com/twoo)
 2. [woorank](http://www.startupranking.com/woorank)

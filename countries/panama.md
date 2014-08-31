@@ -1,4 +1,4 @@
-## Panama
+## Top Ranked Startups in Panama
 
 1. [gogetit](http://www.startupranking.com/gogetit)
 2. [hq-panama](http://www.startupranking.com/hq-panama)

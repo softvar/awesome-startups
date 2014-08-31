@@ -1,4 +1,4 @@
-## China
+## Top Ranked Startups in China
 
 1. [wechat](http://www.startupranking.com/wechat)
 2. [tradesparq](http://www.startupranking.com/tradesparq)

@@ -1,4 +1,4 @@
-## Botswana
+## Top Ranked Startups in Botswana
 
 1. [mmegi-online](http://www.startupranking.com/mmegi-online)
 2. [weblogic](http://www.startupranking.com/weblogic)

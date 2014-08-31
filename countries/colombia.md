@@ -1,4 +1,4 @@
-## Colombia
+## Top Ranked Startups in Colombia
 
 1. [voice123](http://www.startupranking.com/voice123)
 2. [pulzo](http://www.startupranking.com/pulzo)

@@ -1,4 +1,4 @@
-## United Arab Emirates
+## Top Ranked Startups in United Arab Emirates
 
 1. [laimoon](http://www.startupranking.com/laimoon)
 2. [anghami](http://www.startupranking.com/anghami)

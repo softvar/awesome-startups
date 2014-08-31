@@ -1,4 +1,4 @@
-## Brunei
+## Top Ranked Startups in Brunei
 
 1. [socialdeal](http://www.startupranking.com/socialdeal)
 2. [bru-innovedu](http://www.startupranking.com/bru-innovedu)

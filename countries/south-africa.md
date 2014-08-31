@@ -1,4 +1,4 @@
-## South Africa
+## Top Ranked Startups in South Africa
 
 1. [yola](http://www.startupranking.com/yola)
 2. [obox-instant](http://www.startupranking.com/obox-instant)

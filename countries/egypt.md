@@ -1,4 +1,4 @@
-## Egypt
+## Top Ranked Startups in Egypt
 
 1. [hindawi](http://www.startupranking.com/hindawi)
 2. [akhbarak.net](http://www.startupranking.com/akhbarak-net)

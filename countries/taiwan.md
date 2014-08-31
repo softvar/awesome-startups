@@ -1,4 +1,4 @@
-## Taiwan
+## Top Ranked Startups in Taiwan
 
 1. [eztable](http://www.startupranking.com/eztable)
 2. [bounty-hunter](http://www.startupranking.com/bounty-hunter)

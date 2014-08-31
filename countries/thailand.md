@@ -1,4 +1,4 @@
-## Thailand
+## Top Ranked Startups in Thailand
 
 1. [priceza](http://www.startupranking.com/priceza)
 2. [uptopromo](http://www.startupranking.com/uptopromo)

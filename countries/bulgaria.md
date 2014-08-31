@@ -1,4 +1,4 @@
-## Bulgaria
+## Top Ranked Startups in Bulgaria
 
 1. [cloudns](http://www.startupranking.com/cloudns)
 2. [pcloud](http://www.startupranking.com/pcloud)

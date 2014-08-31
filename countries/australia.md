@@ -1,4 +1,4 @@
-## Australia
+## Top Ranked Startups in Australia
 
 1. [big-commerce](http://www.startupranking.com/big-commerce)
 2. [atlassian](http://www.startupranking.com/atlassian)

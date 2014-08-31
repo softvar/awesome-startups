@@ -1,4 +1,4 @@
-## Bolivia
+## Top Ranked Startups in Bolivia
 
 1. [n.nu](http://www.startupranking.com/n-nu)
 2. [tumomo](http://www.startupranking.com/tumomo)

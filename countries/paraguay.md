@@ -1,4 +1,4 @@
-## Paraguay
+## Top Ranked Startups in Paraguay
 
 1. [installthisapp](http://www.startupranking.com/installthisapp)
 2. [keapo](http://www.startupranking.com/keapo)

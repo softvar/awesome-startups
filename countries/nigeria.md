@@ -1,4 +1,4 @@
-## Nigeria
+## Top Ranked Startups in Nigeria
 
 1. [konga](http://www.startupranking.com/konga)
 2. [jobberman](http://www.startupranking.com/jobberman)

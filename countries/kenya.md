@@ -1,4 +1,4 @@
-## Kenya
+## Top Ranked Startups in Kenya
 
 1. [ushahidi](http://www.startupranking.com/ushahidi)
 2. [rupu](http://www.startupranking.com/rupu)

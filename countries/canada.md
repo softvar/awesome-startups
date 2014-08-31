@@ -1,4 +1,4 @@
-## Canada
+## Top Ranked Startups in Canada
 
 1. [digital-journal](http://www.startupranking.com/digital-journal)
 2. [unbounce](http://www.startupranking.com/unbounce)
