@@ -1,6 +1,6 @@
 <?php
 /*
- * Function to fetch a page and return it content
+ * Function to fetch a page and return its content
  */
 function curl($url) {
     $ch = curl_init();
@@ -12,18 +12,17 @@ function curl($url) {
 }
 
 $make  = 'http://www.startupranking.com/countries';
-// get page contents
 $url   = curl($make);
 $regex = '/<td><a href="\/top\/([^"]*)">/';
 preg_match_all($regex, $url, $countryNames);
-$obj = new stdClass();
+
+$countryObject = new stdClass();
 $arr = array();
-//echo $restoNames[0][0];
 foreach ($countryNames[1] as $key => $value) {
-    //echo strip_tags($value);
     array_push($arr, strip_tags($value));
 }
-$obj->countries = $arr;
-file_put_contents('supported-countries.json', json_encode($obj));
+
+$countryObject->countries = $arr;
+file_put_contents('supported-countries.json', json_encode($countryObject));
 
 ?>
