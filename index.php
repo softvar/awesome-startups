@@ -51,6 +51,9 @@ $url          = curl($make);
 $regex        = "/<div class=\"name\"?>.*<a.*?>([^`]*?)<\/a><\/div>/";
 preg_match_all($regex, $url, $startupNames);
 
+$regex        = '/<div class="name"?>.*<a href="\/([^"]*)">/';
+preg_match_all($regex, $url, $startupUrlsPath);
+
 $doc = new DOMDocument();
 @$doc->loadHTML($url);
 $xml       = simplexml_import_dom($doc); // just to make xpath more simple
@@ -60,7 +63,7 @@ foreach ($startupNames[0] as $key => $value) {
     $value = strtolower(strip_tags($value));
     $value = str_replace(' ', '-', $value);
     if ($value != '') {
-        $startupUrl   = $BASE_URL . lcfirst($value);
+        $startupUrl   = $BASE_URL . lcfirst($startupUrlsPath[1][$key]);
         $readmeOutput = appendText($readmeOutput, ($key + 1) . '. [' . $value . '](' . $startupUrl . ') - ' . $locations[$key]['title']);
         $readmeOutput = insertNewline($readmeOutput, 1);
     }
@@ -100,15 +103,17 @@ for ($j = 0; $j < count($listOfSupportedCountries['countries']); $j++) {
     $make          = 'http://www.startupranking.com/top/' . $hyphenSeparatedCountryName;
     // get page contents
     $url           = curl($make);
-    //echo $url;
     $regex         = "/<div class=\"name\"?>.*<a.*?>([^`]*?)<\/a><\/div>/";
-
     preg_match_all($regex, $url, $startupNames);
+
+    $regex         = '/<div class="name"?>.*<a href="\/([^"]*)">/';
+    preg_match_all($regex, $url, $startupUrlsPath);
+
     foreach ($startupNames[0] as $key => $value) {
         $value = strtolower(strip_tags($value));
         $value = str_replace(' ', '-', $value);
         if ($value != '') {
-            $startupUrl    = $BASE_URL . lcfirst($value);
+            $startupUrl    = $BASE_URL . lcfirst($startupUrlsPath[1][$key]);
             $countryOutput = appendText($countryOutput, ($key + 1) . '. [' . $value . '](' . $startupUrl . ')');
             $countryOutput = insertNewline($countryOutput, 1);
         }
