@@ -36,16 +36,16 @@ This repo is maintained to provide the information regarding the Top 100 startup
 18. [zendesk](http://www.startupranking.com/zendesk) - United States
 19. [9gag](http://www.startupranking.com/9gag) - Hong Kong SAR China
 20. [big-commerce](http://www.startupranking.com/big-commerce) - Australia
-21. [about.me](http://www.startupranking.com/about.me) - United States
-22. [ask.fm](http://www.startupranking.com/ask.fm) - Latvia
+21. [about.me](http://www.startupranking.com/about-me) - United States
+22. [ask.fm](http://www.startupranking.com/ask-fm) - Latvia
 23. [atlassian](http://www.startupranking.com/atlassian) - Australia
 24. [uber](http://www.startupranking.com/uber) - United States
 25. [wix](http://www.startupranking.com/wix) - Israel
 26. [kakaku](http://www.startupranking.com/kakaku) - Japan
 27. [box](http://www.startupranking.com/box) - United States
-28. [menéame](http://www.startupranking.com/menéame) - Spain
+28. [menéame](http://www.startupranking.com/meneame-net) - Spain
 29. [mixi](http://www.startupranking.com/mixi) - Japan
-30. [taringa!](http://www.startupranking.com/taringa!) - Argentina
+30. [taringa!](http://www.startupranking.com/taringa) - Argentina
 31. [ustream](http://www.startupranking.com/ustream) - Hungary
 32. [treehouse](http://www.startupranking.com/treehouse) - United States
 33. [lumosity](http://www.startupranking.com/lumosity) - United States
@@ -70,7 +70,7 @@ This repo is maintained to provide the information regarding the Top 100 startup
 52. [ifttt](http://www.startupranking.com/ifttt) - United States
 53. [designmodo](http://www.startupranking.com/designmodo) - United States
 54. [songza](http://www.startupranking.com/songza) - United States
-55. [infogr.am](http://www.startupranking.com/infogr.am) - Latvia
+55. [infogr.am](http://www.startupranking.com/infogr-am) - Latvia
 56. [freshdesk](http://www.startupranking.com/freshdesk) - India
 57. [fab](http://www.startupranking.com/fab) - United States
 58. [liveperson](http://www.startupranking.com/liveperson) - United States
@@ -79,24 +79,24 @@ This repo is maintained to provide the information regarding the Top 100 startup
 61. [zozotown](http://www.startupranking.com/zozotown) - Japan
 62. [newscred](http://www.startupranking.com/newscred) - United States
 63. [unbounce](http://www.startupranking.com/unbounce) - Canada
-64. [justin.tv](http://www.startupranking.com/justin.tv) - United States
+64. [justin.tv](http://www.startupranking.com/justin-tv) - United States
 65. [nationbuilder](http://www.startupranking.com/nationbuilder) - United States
 66. [buysellads](http://www.startupranking.com/buysellads) - United States
 67. [roblox](http://www.startupranking.com/roblox) - United States
 68. [pearltrees](http://www.startupranking.com/pearltrees) - France
-69. [scoop.it](http://www.startupranking.com/scoop.it) - France
+69. [scoop.it](http://www.startupranking.com/scoop-it) - France
 70. [wechat](http://www.startupranking.com/wechat) - China
 71. [sendgrid](http://www.startupranking.com/sendgrid) - United States
 72. [4travel](http://www.startupranking.com/4travel) - Japan
 73. [angellist](http://www.startupranking.com/angellist) - United States
 74. [ranker](http://www.startupranking.com/ranker) - United States
 75. [criteo](http://www.startupranking.com/criteo) - France
-76. [lintas.me](http://www.startupranking.com/lintas.me) - Indonesia
+76. [lintas.me](http://www.startupranking.com/lintas-me) - Indonesia
 77. [basecamp](http://www.startupranking.com/basecamp) - United States
 78. [tuenti](http://www.startupranking.com/tuenti) - Spain
 79. [app-annie](http://www.startupranking.com/app-annie) - United States
 80. [bigfish](http://www.startupranking.com/bigfish) - United States
-81. [paper.li](http://www.startupranking.com/paper.li) - Switzerland
+81. [paper.li](http://www.startupranking.com/paper-li) - Switzerland
 82. [rebelmouse](http://www.startupranking.com/rebelmouse) - United States
 83. [giphy](http://www.startupranking.com/giphy) - United States
 84. [snapchat](http://www.startupranking.com/snapchat) - United States
@@ -107,7 +107,7 @@ This repo is maintained to provide the information regarding the Top 100 startup
 89. [twilio](http://www.startupranking.com/twilio) - United States
 90. [spreaker](http://www.startupranking.com/spreaker) - United States
 91. [waze](http://www.startupranking.com/waze) - Israel
-92. [fxstreet.com](http://www.startupranking.com/fxstreet.com) - Spain
+92. [fxstreet.com](http://www.startupranking.com/fxstreet-com) - Spain
 93. [conduit](http://www.startupranking.com/conduit) - Israel
 94. [logmein](http://www.startupranking.com/logmein) - Hungary
 95. [zulily](http://www.startupranking.com/zulily) - United States
