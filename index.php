@@ -39,6 +39,18 @@ function appendText($dest, $text)
 }
 
 /*
+ * Fetch page content
+ */
+function fetchPageContent($url) {
+    $make         = $url;
+    $content      = curl($make);
+    $doc          = new DOMDocument();
+    @$doc->loadHTML($content);
+    $xml          = simplexml_import_dom($doc); // just to make xpath more simple
+    return $xml;
+
+}
+/*
  *  Prepare README Content
  */
 $readmeOutput = file_get_contents('pre-readme-content.txt');
@@ -68,20 +80,31 @@ foreach ($startupNames[0] as $key => $value) {
         $readmeOutput = insertNewline($readmeOutput, 1);
     }
 }
+
+$url          = 'http://www.startupranking.com/countries'; 
+$xml          = fetchPageContent($url);
+$startupNum = $xml->xpath('//tr[@class="f32"]//td[3]');
+
 $readmeOutput = insertNewline($readmeOutput, 1);
 $readmeOutput = appendText($readmeOutput, '## List of Countries');
 $readmeOutput = insertNewline($readmeOutput, 2);
 $readmeOutput = appendText($readmeOutput, 'This list is sorted in descending order of the number of startups a country has. Click the country to view the startups.');
-$readmeOutput = insertNewline($readmeOutput, 1);
+$readmeOutput = insertNewline($readmeOutput, 2);
 
 foreach ($listOfSupportedCountries['countries'] as $key => $value) {
-    //echo ucfirst($value);
+    $noOfStartups = $startupNum[$key];
     $splitCountryName = explode("-", $value);
     $countryName      = ucfirst($splitCountryName[0]);
     for ($i = 1; $i < count($splitCountryName); $i++) {
         $countryName = $countryName . " " . ucfirst($splitCountryName[$i]);
     }
-    $readmeOutput = appendText($readmeOutput, '- [' . $countryName . '](countries/' . $value . '.md)');
+    $readmeOutput = appendText($readmeOutput, '- [' . $countryName . '](countries/' . $value . '.md)' . ' - ' . $noOfStartups);
+    if ($noOfStartups > 1) {
+        $readmeOutput = appendText($readmeOutput, ' startups');
+    }
+    else if ($noOfStartups == 1) {
+        $readmeOutput = appendText($readmeOutput, ' startup');
+    }
     $readmeOutput = insertNewline($readmeOutput, 1);
 }
 
