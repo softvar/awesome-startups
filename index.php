@@ -54,6 +54,10 @@ function fetchPageContent($url) {
  *  Prepare README Content
  */
 $readmeOutput = file_get_contents('pre-readme-content.txt');
+date_default_timezone_set("UTC");
+$dateNtime = date('Y-m-d H:i:s');
+$readmeOutput = insertNewline($readmeOutput, 2);
+$readmeOutput = appendText($readmeOutput, '**Last Updated On:** ' . $dateNtime . ' (UTC)');
 $readmeOutput = insertNewline($readmeOutput, 2);
 $readmeOutput = appendText($readmeOutput, '## List of Top 100 Startups across globe');
 $readmeOutput = insertNewline($readmeOutput, 2);
@@ -113,7 +117,7 @@ $postReadmeContent = appendText($postReadmeContent, file_get_contents('post-read
 $readmeOutput      = appendText($readmeOutput, $postReadmeContent);
 file_put_contents('README.md', $readmeOutput);
 
-for ($j = 0; $j < count($listOfSupportedCountries['countries']); $j++) {
+/*for ($j = 0; $j < count($listOfSupportedCountries['countries']); $j++) {
 
     $hyphenSeparatedCountryName = $listOfSupportedCountries['countries'][$j];
     $splitCountryName           = explode("-", $hyphenSeparatedCountryName);
@@ -145,5 +149,5 @@ for ($j = 0; $j < count($listOfSupportedCountries['countries']); $j++) {
     $filename      = 'countries/' . $hyphenSeparatedCountryName . '.md';
     file_put_contents($filename, $countryOutput);
     $countryOutput = '';
-}
+}*/
 ?>
