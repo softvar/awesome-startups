@@ -14,6 +14,8 @@ This repo is maintained to provide the information regarding the Top 100 startup
 - [Contribution](#contribution)
 - [License](#license)
 
+**Last Updated On:** 2014-09-01 12:34:07 (UTC)
+
 ## List of Top 100 Startups across globe
 
 1. [behance](http://www.startupranking.com/behance) - United States
