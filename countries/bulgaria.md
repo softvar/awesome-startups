@@ -51,6 +51,6 @@
 49. [colorfit](http://www.startupranking.com/colorfit)
 50. [pickatip](http://www.startupranking.com/pickatip)
 51. [swopee](http://www.startupranking.com/swopee)
-52. [clubbingtribe](http://www.startupranking.com/clubbingtribe)
-53. [playerfinder](http://www.startupranking.com/playerfinder)
+52. [playerfinder](http://www.startupranking.com/playerfinder)
+53. [clubbingtribe](http://www.startupranking.com/clubbingtribe)
 
