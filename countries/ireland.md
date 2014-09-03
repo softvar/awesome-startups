@@ -1,8 +1,8 @@
 ## Top Ranked Startups in Ireland
 
 1. [language-bookings](http://www.startupranking.com/language-bookings)
-2. [jobbaloon](http://www.startupranking.com/jobbaloon)
-3. [trustev](http://www.startupranking.com/trustev)
+2. [trustev](http://www.startupranking.com/trustev)
+3. [jobbaloon](http://www.startupranking.com/jobbaloon)
 4. [clouddock](http://www.startupranking.com/clouddock)
 5. [pulsate](http://www.startupranking.com/pulsate)
 6. [scurri](http://www.startupranking.com/scurri)

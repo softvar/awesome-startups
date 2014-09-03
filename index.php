@@ -117,7 +117,7 @@ $postReadmeContent = appendText($postReadmeContent, file_get_contents('post-read
 $readmeOutput      = appendText($readmeOutput, $postReadmeContent);
 file_put_contents('README.md', $readmeOutput);
 
-/*for ($j = 0; $j < count($listOfSupportedCountries['countries']); $j++) {
+for ($j = 0; $j < count($listOfSupportedCountries['countries']); $j++) {
 
     $hyphenSeparatedCountryName = $listOfSupportedCountries['countries'][$j];
     $splitCountryName           = explode("-", $hyphenSeparatedCountryName);
@@ -149,5 +149,5 @@ file_put_contents('README.md', $readmeOutput);
     $filename      = 'countries/' . $hyphenSeparatedCountryName . '.md';
     file_put_contents($filename, $countryOutput);
     $countryOutput = '';
-}*/
+}
 ?>
