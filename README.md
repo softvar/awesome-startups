@@ -2,7 +2,7 @@
 
 A curated list of awesome startups. Inspired by `awesome-*` trend.
 
-Data Source: [startupranking.com](startupranking.com)
+Data Source: [startupranking.com](http://startupranking.com)
 
 This repo is maintained to provide the information regarding the Top 100 startups across the globe. To retrieve the awesome-data about the awesome-startups, the rankings are provided by `startupranking.com`. The PHP-script crunches the latest data on daily-basis to provide [up-to-date information](#how-is-it-dynamic) in this README file. It also provides a list of country-based startups(sorted in descending order of the no of startups in a country) while the list of startups in their corresponding files are listed in ascending order of their rankings.
 
@@ -14,7 +14,7 @@ This repo is maintained to provide the information regarding the Top 100 startup
 - [Contribution](#contribution)
 - [License](#license)
 
-**Last Updated On:** 2014-09-03 12:21:45 (UTC)
+**Last Updated On:** 2014-09-03 19:45:27 (UTC)
 
 ## List of Top 100 Startups across globe
 
@@ -124,7 +124,7 @@ This repo is maintained to provide the information regarding the Top 100 startup
 This list is sorted in descending order of the number of startups a country has. Click the country to view the startups.
 
 - [United States](countries/united-states.md) - 3,579 startups
-- [India](countries/india.md) - 875 startups
+- [India](countries/india.md) - 878 startups
 - [United Kingdom](countries/united-kingdom.md) - 506 startups
 - [Brazil](countries/brazil.md) - 392 startups
 - [Spain](countries/spain.md) - 357 startups
@@ -136,10 +136,10 @@ This list is sorted in descending order of the number of startups a country has.
 - [Argentina](countries/argentina.md) - 230 startups
 - [Egypt](countries/egypt.md) - 230 startups
 - [Russia](countries/russia.md) - 220 startups
-- [Peru](countries/peru.md) - 219 startups
+- [Peru](countries/peru.md) - 220 startups
 - [Australia](countries/australia.md) - 214 startups
 - [Nigeria](countries/nigeria.md) - 210 startups
-- [France](countries/france.md) - 197 startups
+- [France](countries/france.md) - 198 startups
 - [Chile](countries/chile.md) - 184 startups
 - [Portugal](countries/portugal.md) - 169 startups
 - [Mexico](countries/mexico.md) - 169 startups
