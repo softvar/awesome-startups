@@ -15,8 +15,8 @@
 13. [redbullet](http://www.startupranking.com/redbullet)
 14. [guruweb](http://www.startupranking.com/guruweb)
 15. [seleville-business-solutions](http://www.startupranking.com/seleville-business-solutions)
-16. [olekard](http://www.startupranking.com/olekard)
-17. [mobbo](http://www.startupranking.com/mobbo)
+16. [mobbo](http://www.startupranking.com/mobbo)
+17. [olekard](http://www.startupranking.com/olekard)
 18. [hostbotswana](http://www.startupranking.com/hostbotswana)
 19. [modisar](http://www.startupranking.com/modisar)
 
