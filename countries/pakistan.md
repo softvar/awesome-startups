@@ -6,7 +6,7 @@
 4. [artsly](http://www.startupranking.com/artsly)
 5. [centangle](http://www.startupranking.com/centangle)
 6. [ouzelsystems](http://www.startupranking.com/ouzelsystems)
-7. [404-solutions](http://www.startupranking.com/404-solutions)
-8. [zamudi](http://www.startupranking.com/zamudi)
-9. [buganalytics](http://www.startupranking.com/buganalytics)
+7. [zamudi](http://www.startupranking.com/zamudi)
+8. [buganalytics](http://www.startupranking.com/buganalytics)
+9. [404-solutions](http://www.startupranking.com/404-solutions)
 

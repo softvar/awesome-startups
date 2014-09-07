@@ -10,7 +10,7 @@
 8. [kinehintsa](http://www.startupranking.com/kinehintsa)
 9. [qnash](http://www.startupranking.com/qnash)
 10. [dungo-energy-solutions](http://www.startupranking.com/dungo-energy-solutions)
-11. [emekina](http://www.startupranking.com/emekina)
-12. [ethamco](http://www.startupranking.com/ethamco)
-13. [axis-ethiopia](http://www.startupranking.com/axis-ethiopia)
+11. [ethamco](http://www.startupranking.com/ethamco)
+12. [axis-ethiopia](http://www.startupranking.com/axis-ethiopia)
+13. [emekina](http://www.startupranking.com/emekina)
 

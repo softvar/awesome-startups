@@ -8,6 +8,6 @@
 6. [duotouch](http://www.startupranking.com/duotouch)
 7. [sendout](http://www.startupranking.com/sendout)
 8. [sogifts](http://www.startupranking.com/sogifts)
-9. [sityur](http://www.startupranking.com/sityur)
-10. [ogirabola](http://www.startupranking.com/ogirabola)
+9. [ogirabola](http://www.startupranking.com/ogirabola)
+10. [sityur](http://www.startupranking.com/sityur)
 
