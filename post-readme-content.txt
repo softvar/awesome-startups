@@ -11,18 +11,20 @@ The whole work is dependent on the data provided by `startupranking.com`. All th
 ## Contribution
 
 1. Clone this repo.
-2. Create a new branch(prefixing your `github username`). For eg. `softvar-fixed-type` or `softvar-updated-list`.
+2. Create a new branch(prefixing your `github username`). For eg. `softvar-fixed-typo` or `softvar-updated-list`.
 3. Do the desired work.
 4. Ignore steps 5 and 6 if there's only a typo-fix.
 5. Run `fetch-countries.php` to update the supported list of countries.
 6. Run `index.php` to fetch the data and Update the `corresponding files` and `README.md` file. Please wait since this script will be crunching a huge data and meanwhile writing the same using `Markdown syntax` to the corresponding files :)
 7. Please verify your changes.
 8. Only one commit for all the changed files.
+
     ```
     $ git add .
     $ git commit -m "Change the logic to boost up performance"
     $ git push origin [branch-name]
     ```
+
 9. Open a Pull Request(PR).
 10. Please write a meaningful description for the PR and you're done.
 

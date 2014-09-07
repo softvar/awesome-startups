@@ -14,7 +14,7 @@ This repo is maintained to provide the information regarding the Top 100 startup
 - [Contribution](#contribution)
 - [License](#license)
 
-**Last Updated On:** 2014-09-07 09:17:25 (UTC)
+**Last Updated On:** 2014-09-07 09:33:02 (UTC)
 
 ## List of Top 100 Startups across globe
 
@@ -277,11 +277,13 @@ The whole work is dependent on the data provided by `startupranking.com`. All th
 6. Run `index.php` to fetch the data and Update the `corresponding files` and `README.md` file. Please wait since this script will be crunching a huge data and meanwhile writing the same using `Markdown syntax` to the corresponding files :)
 7. Please verify your changes.
 8. Only one commit for all the changed files.
+
     ```
     $ git add .
     $ git commit -m "Change the logic to boost up performance"
     $ git push origin [branch-name]
     ```
+
 9. Open a Pull Request(PR).
 10. Please write a meaningful description for the PR and you're done.
 
