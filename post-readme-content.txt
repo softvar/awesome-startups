@@ -21,7 +21,7 @@ The whole work is dependent on the data provided by `startupranking.com`. All th
 
     ```
     $ git add .
-    $ git commit -m "Change the logic to boost up performance"
+    $ git commit -m "Updated the list of startups"
     $ git push origin [branch-name]
     ```
 
