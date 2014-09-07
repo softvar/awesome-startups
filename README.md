@@ -14,7 +14,7 @@ This repo is maintained to provide the information regarding the Top 100 startup
 - [Contribution](#contribution)
 - [License](#license)
 
-**Last Updated On:** 2014-09-07 09:33:02 (UTC)
+**Last Updated On:** 2014-09-07 09:38:44 (UTC)
 
 ## List of Top 100 Startups across globe
 
@@ -270,7 +270,7 @@ The whole work is dependent on the data provided by `startupranking.com`. All th
 ## Contribution
 
 1. Clone this repo.
-2. Create a new branch(prefixing your `github username`). For eg. `softvar-fixed-type` or `softvar-updated-list`.
+2. Create a new branch(prefixing your `github username`). For eg. `softvar-fixed-typo` or `softvar-updated-list`.
 3. Do the desired work.
 4. Ignore steps 5 and 6 if there's only a typo-fix.
 5. Run `fetch-countries.php` to update the supported list of countries.
@@ -280,7 +280,7 @@ The whole work is dependent on the data provided by `startupranking.com`. All th
 
     ```
     $ git add .
-    $ git commit -m "Change the logic to boost up performance"
+    $ git commit -m "Updated the list of startups"
     $ git push origin [branch-name]
     ```
 
