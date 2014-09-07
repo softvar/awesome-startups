@@ -150,4 +150,5 @@ for ($j = 0; $j < count($listOfSupportedCountries['countries']); $j++) {
     file_put_contents($filename, $countryOutput);
     $countryOutput = '';
 }
+echo 'List has been successfully Updated! :) on ' . $dateNtime . ' (UTC)';
 ?>
