@@ -14,6 +14,6 @@
 12. [infinitech](http://www.startupranking.com/infinitech)
 13. [vectorcg](http://www.startupranking.com/vectorcg)
 14. [wedxt](http://www.startupranking.com/wedxt)
-15. [cji-group](http://www.startupranking.com/cji-group)
-16. [seeder](http://www.startupranking.com/seeder)
+15. [seeder](http://www.startupranking.com/seeder)
+16. [cji-group](http://www.startupranking.com/cji-group)
 

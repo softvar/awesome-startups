@@ -14,28 +14,28 @@ This repo is maintained to provide the information regarding the Top 100 startup
 - [Contribution](#contribution)
 - [License](#license)
 
-**Last Updated On:** 2014-09-07 09:38:44 (UTC)
+**Last Updated On:** 2014-09-14 11:44:46 (UTC)
 
 ## List of Top 100 Startups across globe
 
 1. [behance](http://www.startupranking.com/behance) - United States
 2. [eventbrite](http://www.startupranking.com/eventbrite) - United States
 3. [mailchimp](http://www.startupranking.com/mailchimp) - United States
-4. [moz](http://www.startupranking.com/moz) - United States
-5. [prezi](http://www.startupranking.com/prezi) - Hungary
-6. [deezer](http://www.startupranking.com/deezer) - France
-7. [twitch](http://www.startupranking.com/twitch) - United States
-8. [hubspot](http://www.startupranking.com/hubspot) - United States
+4. [deezer](http://www.startupranking.com/deezer) - France
+5. [moz](http://www.startupranking.com/moz) - United States
+6. [hubspot](http://www.startupranking.com/hubspot) - United States
+7. [prezi](http://www.startupranking.com/prezi) - Hungary
+8. [twitch](http://www.startupranking.com/twitch) - United States
 9. [bufferapp](http://www.startupranking.com/bufferapp) - United States
 10. [indeed](http://www.startupranking.com/indeed) - United States
 11. [airbnb](http://www.startupranking.com/airbnb) - United States
 12. [thinkgeek](http://www.startupranking.com/thinkgeek) - United States
-13. [tesla-motors](http://www.startupranking.com/tesla-motors) - United States
-14. [grooveshark](http://www.startupranking.com/grooveshark) - United States
-15. [quora](http://www.startupranking.com/quora) - United States
-16. [fiverr](http://www.startupranking.com/fiverr) - Israel
-17. [klout](http://www.startupranking.com/klout) - United States
-18. [zendesk](http://www.startupranking.com/zendesk) - United States
+13. [quora](http://www.startupranking.com/quora) - United States
+14. [tesla-motors](http://www.startupranking.com/tesla-motors) - United States
+15. [grooveshark](http://www.startupranking.com/grooveshark) - United States
+16. [zendesk](http://www.startupranking.com/zendesk) - United States
+17. [fiverr](http://www.startupranking.com/fiverr) - Israel
+18. [klout](http://www.startupranking.com/klout) - United States
 19. [9gag](http://www.startupranking.com/9gag) - Hong Kong SAR China
 20. [big-commerce](http://www.startupranking.com/big-commerce) - Australia
 21. [about.me](http://www.startupranking.com/about-me) - United States
@@ -43,13 +43,13 @@ This repo is maintained to provide the information regarding the Top 100 startup
 23. [atlassian](http://www.startupranking.com/atlassian) - Australia
 24. [uber](http://www.startupranking.com/uber) - United States
 25. [wix](http://www.startupranking.com/wix) - Israel
-26. [box](http://www.startupranking.com/box) - United States
+26. [menéame](http://www.startupranking.com/meneame-net) - Spain
 27. [kakaku](http://www.startupranking.com/kakaku) - Japan
-28. [menéame](http://www.startupranking.com/meneame-net) - Spain
+28. [box](http://www.startupranking.com/box) - United States
 29. [mixi](http://www.startupranking.com/mixi) - Japan
 30. [taringa!](http://www.startupranking.com/taringa) - Argentina
-31. [treehouse](http://www.startupranking.com/treehouse) - United States
-32. [ustream](http://www.startupranking.com/ustream) - Hungary
+31. [ustream](http://www.startupranking.com/ustream) - Hungary
+32. [treehouse](http://www.startupranking.com/treehouse) - United States
 33. [lumosity](http://www.startupranking.com/lumosity) - United States
 34. [gilt](http://www.startupranking.com/gilt) - United States
 35. [badoo](http://www.startupranking.com/badoo) - United Kingdom
@@ -60,30 +60,30 @@ This repo is maintained to provide the information regarding the Top 100 startup
 40. [codeschool](http://www.startupranking.com/codeschool) - United States
 41. [digital-journal](http://www.startupranking.com/digital-journal) - Canada
 42. [coursera](http://www.startupranking.com/coursera) - United States
-43. [tabelog](http://www.startupranking.com/tabelog) - Japan
-44. [mint](http://www.startupranking.com/mint) - United States
-45. [square](http://www.startupranking.com/square) - United States
-46. [8tracks](http://www.startupranking.com/8tracks) - United States
+43. [mint](http://www.startupranking.com/mint) - United States
+44. [tabelog](http://www.startupranking.com/tabelog) - Japan
+45. [8tracks](http://www.startupranking.com/8tracks) - United States
+46. [square](http://www.startupranking.com/square) - United States
 47. [new-relic](http://www.startupranking.com/new-relic) - United States
 48. [newrelic](http://www.startupranking.com/newrelic) - United States
 49. [buffer](http://www.startupranking.com/buffer) - United States
 50. [socialbakers](http://www.startupranking.com/socialbakers) - Czech Republic
 51. [ifttt](http://www.startupranking.com/ifttt) - United States
 52. [songza](http://www.startupranking.com/songza) - United States
-53. [infogr.am](http://www.startupranking.com/infogr-am) - Latvia
-54. [designmodo](http://www.startupranking.com/designmodo) - United States
+53. [designmodo](http://www.startupranking.com/designmodo) - United States
+54. [infogr.am](http://www.startupranking.com/infogr-am) - Latvia
 55. [freshdesk](http://www.startupranking.com/freshdesk) - India
 56. [fab](http://www.startupranking.com/fab) - United States
-57. [spacex](http://www.startupranking.com/spacex) - United States
-58. [nginx](http://www.startupranking.com/nginx) - United States
+57. [nginx](http://www.startupranking.com/nginx) - United States
+58. [spacex](http://www.startupranking.com/spacex) - United States
 59. [wetransfer](http://www.startupranking.com/wetransfer) - Netherlands
 60. [zozotown](http://www.startupranking.com/zozotown) - Japan
 61. [liveperson](http://www.startupranking.com/liveperson) - United States
 62. [unbounce](http://www.startupranking.com/unbounce) - Canada
 63. [newscred](http://www.startupranking.com/newscred) - United States
 64. [nationbuilder](http://www.startupranking.com/nationbuilder) - United States
-65. [justin.tv](http://www.startupranking.com/justin-tv) - United States
-66. [buysellads](http://www.startupranking.com/buysellads) - United States
+65. [buysellads](http://www.startupranking.com/buysellads) - United States
+66. [justin.tv](http://www.startupranking.com/justin-tv) - United States
 67. [roblox](http://www.startupranking.com/roblox) - United States
 68. [scoop.it](http://www.startupranking.com/scoop-it) - France
 69. [pearltrees](http://www.startupranking.com/pearltrees) - France
@@ -92,79 +92,79 @@ This repo is maintained to provide the information regarding the Top 100 startup
 72. [4travel](http://www.startupranking.com/4travel) - Japan
 73. [angellist](http://www.startupranking.com/angellist) - United States
 74. [ranker](http://www.startupranking.com/ranker) - United States
-75. [criteo](http://www.startupranking.com/criteo) - France
-76. [basecamp](http://www.startupranking.com/basecamp) - United States
-77. [tuenti](http://www.startupranking.com/tuenti) - Spain
-78. [app-annie](http://www.startupranking.com/app-annie) - United States
-79. [bigfish](http://www.startupranking.com/bigfish) - United States
-80. [paper.li](http://www.startupranking.com/paper-li) - Switzerland
-81. [rebelmouse](http://www.startupranking.com/rebelmouse) - United States
-82. [giphy](http://www.startupranking.com/giphy) - United States
-83. [snapchat](http://www.startupranking.com/snapchat) - United States
-84. [pixlr](http://www.startupranking.com/pixlr) - Sweden
-85. [followgram](http://www.startupranking.com/followgram) - United States
-86. [bloglovin](http://www.startupranking.com/bloglovin) - Sweden
-87. [nanapi](http://www.startupranking.com/nanapi) - Japan
-88. [spreaker](http://www.startupranking.com/spreaker) - United States
-89. [fxstreet.com](http://www.startupranking.com/fxstreet-com) - Spain
-90. [twilio](http://www.startupranking.com/twilio) - United States
-91. [conduit](http://www.startupranking.com/conduit) - Israel
-92. [waze](http://www.startupranking.com/waze) - Israel
-93. [logmein](http://www.startupranking.com/logmein) - Hungary
-94. [zulily](http://www.startupranking.com/zulily) - United States
-95. [peopleperhour](http://www.startupranking.com/peopleperhour) - United Kingdom
+75. [lintas.me](http://www.startupranking.com/lintas-me) - Indonesia
+76. [criteo](http://www.startupranking.com/criteo) - France
+77. [basecamp](http://www.startupranking.com/basecamp) - United States
+78. [tuenti](http://www.startupranking.com/tuenti) - Spain
+79. [app-annie](http://www.startupranking.com/app-annie) - United States
+80. [bigfish](http://www.startupranking.com/bigfish) - United States
+81. [paper.li](http://www.startupranking.com/paper-li) - Switzerland
+82. [rebelmouse](http://www.startupranking.com/rebelmouse) - United States
+83. [giphy](http://www.startupranking.com/giphy) - United States
+84. [snapchat](http://www.startupranking.com/snapchat) - United States
+85. [pixlr](http://www.startupranking.com/pixlr) - Sweden
+86. [nanapi](http://www.startupranking.com/nanapi) - Japan
+87. [followgram](http://www.startupranking.com/followgram) - United States
+88. [fxstreet.com](http://www.startupranking.com/fxstreet-com) - Spain
+89. [bloglovin](http://www.startupranking.com/bloglovin) - Sweden
+90. [spreaker](http://www.startupranking.com/spreaker) - United States
+91. [twilio](http://www.startupranking.com/twilio) - United States
+92. [conduit](http://www.startupranking.com/conduit) - Israel
+93. [waze](http://www.startupranking.com/waze) - Israel
+94. [logmein](http://www.startupranking.com/logmein) - Hungary
+95. [zulily](http://www.startupranking.com/zulily) - United States
 96. [skift](http://www.startupranking.com/skift) - United States
 97. [viadeo](http://www.startupranking.com/viadeo) - France
-98. [wetpaint](http://www.startupranking.com/wetpaint) - United States
-99. [skillshare](http://www.startupranking.com/skillshare) - United States
+98. [peopleperhour](http://www.startupranking.com/peopleperhour) - United Kingdom
+99. [wetpaint](http://www.startupranking.com/wetpaint) - United States
 100. [wunderlist](http://www.startupranking.com/wunderlist) - United States
 
 ## List of Countries
 
 This list is sorted in descending order of the number of startups a country has. Click the country to view the startups.
 
-- [United States](countries/united-states.md) - 3,588 startups
-- [India](countries/india.md) - 883 startups
-- [United Kingdom](countries/united-kingdom.md) - 507 startups
-- [Brazil](countries/brazil.md) - 392 startups
-- [Spain](countries/spain.md) - 356 startups
-- [Canada](countries/canada.md) - 351 startups
-- [Indonesia](countries/indonesia.md) - 297 startups
+- [United States](countries/united-states.md) - 3,610 startups
+- [India](countries/india.md) - 896 startups
+- [United Kingdom](countries/united-kingdom.md) - 509 startups
+- [Brazil](countries/brazil.md) - 394 startups
+- [Spain](countries/spain.md) - 364 startups
+- [Canada](countries/canada.md) - 353 startups
+- [Indonesia](countries/indonesia.md) - 304 startups
 - [Italy](countries/italy.md) - 273 startups
-- [Colombia](countries/colombia.md) - 259 startups
-- [Germany](countries/germany.md) - 245 startups
-- [Argentina](countries/argentina.md) - 230 startups
-- [Egypt](countries/egypt.md) - 229 startups
+- [Colombia](countries/colombia.md) - 261 startups
+- [Germany](countries/germany.md) - 244 startups
+- [Argentina](countries/argentina.md) - 233 startups
+- [Egypt](countries/egypt.md) - 228 startups
 - [Peru](countries/peru.md) - 222 startups
 - [Russia](countries/russia.md) - 220 startups
 - [Australia](countries/australia.md) - 215 startups
 - [Nigeria](countries/nigeria.md) - 213 startups
 - [France](countries/france.md) - 197 startups
-- [Chile](countries/chile.md) - 186 startups
-- [Mexico](countries/mexico.md) - 170 startups
-- [Portugal](countries/portugal.md) - 168 startups
+- [Chile](countries/chile.md) - 189 startups
+- [Mexico](countries/mexico.md) - 173 startups
+- [Portugal](countries/portugal.md) - 169 startups
 - [Belgium](countries/belgium.md) - 168 startups
-- [Netherlands](countries/netherlands.md) - 149 startups
+- [Netherlands](countries/netherlands.md) - 150 startups
+- [Hungary](countries/hungary.md) - 149 startups
 - [Switzerland](countries/switzerland.md) - 148 startups
-- [Hungary](countries/hungary.md) - 148 startups
 - [Poland](countries/poland.md) - 130 startups
-- [Singapore](countries/singapore.md) - 129 startups
 - [Kenya](countries/kenya.md) - 129 startups
+- [Singapore](countries/singapore.md) - 129 startups
 - [Finland](countries/finland.md) - 120 startups
 - [Japan](countries/japan.md) - 115 startups
-- [Israel](countries/israel.md) - 108 startups
+- [Israel](countries/israel.md) - 109 startups
 - [Turkey](countries/turkey.md) - 105 startups
-- [Philippines](countries/philippines.md) - 103 startups
-- [South Africa](countries/south-africa.md) - 101 startups
+- [South Africa](countries/south-africa.md) - 103 startups
+- [Philippines](countries/philippines.md) - 102 startups
 - [Sweden](countries/sweden.md) - 96 startups
 - [Ukraine](countries/ukraine.md) - 77 startups
-- [Romania](countries/romania.md) - 76 startups
-- [Austria](countries/austria.md) - 70 startups
+- [Romania](countries/romania.md) - 77 startups
+- [Austria](countries/austria.md) - 74 startups
 - [Lithuania](countries/lithuania.md) - 61 startups
 - [South Korea](countries/south-korea.md) - 60 startups
-- [Greece](countries/greece.md) - 56 startups
+- [Estonia](countries/estonia.md) - 57 startups
+- [Greece](countries/greece.md) - 57 startups
 - [Bulgaria](countries/bulgaria.md) - 54 startups
-- [Estonia](countries/estonia.md) - 54 startups
 - [Croatia](countries/croatia.md) - 49 startups
 - [Czech Republic](countries/czech-republic.md) - 48 startups
 - [Ghana](countries/ghana.md) - 41 startups
@@ -178,7 +178,7 @@ This list is sorted in descending order of the number of startups a country has.
 - [Serbia](countries/serbia.md) - 30 startups
 - [Uruguay](countries/uruguay.md) - 29 startups
 - [Latvia](countries/latvia.md) - 28 startups
-- [Ireland](countries/ireland.md) - 27 startups
+- [Ireland](countries/ireland.md) - 28 startups
 - [Uganda](countries/uganda.md) - 27 startups
 - [Hong Kong Sar China](countries/hong-kong-sar-china.md) - 24 startups
 - [Thailand](countries/thailand.md) - 23 startups
@@ -189,34 +189,32 @@ This list is sorted in descending order of the number of startups a country has.
 - [Slovakia](countries/slovakia.md) - 17 startups
 - [Bolivia](countries/bolivia.md) - 17 startups
 - [Denmark](countries/denmark.md) - 15 startups
-- [Tunisia](countries/tunisia.md) - 13 startups
 - [Ecuador](countries/ecuador.md) - 13 startups
 - [Paraguay](countries/paraguay.md) - 13 startups
 - [Ethiopia](countries/ethiopia.md) - 13 startups
+- [Tunisia](countries/tunisia.md) - 13 startups
 - [United Arab Emirates](countries/united-arab-emirates.md) - 12 startups
 - [Belarus](countries/belarus.md) - 12 startups
 - [Angola](countries/angola.md) - 11 startups
 - [Pakistan](countries/pakistan.md) - 10 startups
-- [Taiwan](countries/taiwan.md) - 9 startups
 - [New Zealand](countries/new-zealand.md) - 9 startups
+- [Taiwan](countries/taiwan.md) - 9 startups
 - [Tanzania](countries/tanzania.md) - 6 startups
 - [Brunei](countries/brunei.md) - 6 startups
 - [Guatemala](countries/guatemala.md) - 6 startups
 - [Saudi Arabia](countries/saudi-arabia.md) - 6 startups
-- [Algeria](countries/algeria.md) - 5 startups
 - [Nepal](countries/nepal.md) - 5 startups
 - [Panama](countries/panama.md) - 5 startups
-- [Puerto Rico](countries/puerto-rico.md) - 4 startups
+- [Bangladesh](countries/bangladesh.md) - 5 startups
+- [Algeria](countries/algeria.md) - 5 startups
 - [Bosnia And Herzegovina](countries/bosnia-and-herzegovina.md) - 4 startups
-- [Bangladesh](countries/bangladesh.md) - 4 startups
-- [Moldova](countries/moldova.md) - 3 startups
-- [Zimbabwe](countries/zimbabwe.md) - 3 startups
+- [Puerto Rico](countries/puerto-rico.md) - 4 startups
 - [Benin](countries/benin.md) - 3 startups
 - [Senegal](countries/senegal.md) - 3 startups
 - [Costa Rica](countries/costa-rica.md) - 3 startups
 - [Mozambique](countries/mozambique.md) - 3 startups
-- [Georgia](countries/georgia.md) - 2 startups
-- [Cote D Ivoire](countries/cote-d-ivoire.md) - 2 startups
+- [Moldova](countries/moldova.md) - 3 startups
+- [Zimbabwe](countries/zimbabwe.md) - 3 startups
 - [Lebanon](countries/lebanon.md) - 2 startups
 - [British Indian Ocean Territory](countries/british-indian-ocean-territory.md) - 2 startups
 - [European Union](countries/european-union.md) - 2 startups
@@ -225,15 +223,8 @@ This list is sorted in descending order of the number of startups a country has.
 - [Maldives](countries/maldives.md) - 2 startups
 - [French Polynesia](countries/french-polynesia.md) - 2 startups
 - [Afghanistan](countries/afghanistan.md) - 2 startups
-- [Nicaragua](countries/nicaragua.md) - 1 startup
-- [Albania](countries/albania.md) - 1 startup
-- [Kyrgyzstan](countries/kyrgyzstan.md) - 1 startup
-- [Burkina Faso](countries/burkina-faso.md) - 1 startup
-- [Armenia](countries/armenia.md) - 1 startup
-- [Dominican Republic](countries/dominican-republic.md) - 1 startup
-- [Cambodia](countries/cambodia.md) - 1 startup
-- [Palestinian Territories](countries/palestinian-territories.md) - 1 startup
-- [Macedonia](countries/macedonia.md) - 1 startup
+- [Georgia](countries/georgia.md) - 2 startups
+- [Cote D Ivoire](countries/cote-d-ivoire.md) - 2 startups
 - [Bahrain](countries/bahrain.md) - 1 startup
 - [Mali](countries/mali.md) - 1 startup
 - [Burundi](countries/burundi.md) - 1 startup
@@ -256,6 +247,15 @@ This list is sorted in descending order of the number of startups a country has.
 - [Faroe Islands](countries/faroe-islands.md) - 1 startup
 - [Libya](countries/libya.md) - 1 startup
 - [Sudan](countries/sudan.md) - 1 startup
+- [Nicaragua](countries/nicaragua.md) - 1 startup
+- [Albania](countries/albania.md) - 1 startup
+- [Kyrgyzstan](countries/kyrgyzstan.md) - 1 startup
+- [Burkina Faso](countries/burkina-faso.md) - 1 startup
+- [Armenia](countries/armenia.md) - 1 startup
+- [Dominican Republic](countries/dominican-republic.md) - 1 startup
+- [Cambodia](countries/cambodia.md) - 1 startup
+- [Palestinian Territories](countries/palestinian-territories.md) - 1 startup
+- [Macedonia](countries/macedonia.md) - 1 startup
 
 ## How is it dynamic?
 

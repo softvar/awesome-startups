@@ -2,9 +2,9 @@
 
 1. [iconfinder](http://www.startupranking.com/iconfinder)
 2. [tinyrocketlab](http://www.startupranking.com/tinyrocketlab)
-3. [rankscanner](http://www.startupranking.com/rankscanner)
-4. [splitter](http://www.startupranking.com/splitter)
-5. [xstream](http://www.startupranking.com/xstream)
+3. [xstream](http://www.startupranking.com/xstream)
+4. [rankscanner](http://www.startupranking.com/rankscanner)
+5. [splitter](http://www.startupranking.com/splitter)
 6. [leado](http://www.startupranking.com/leado)
 7. [iconbench](http://www.startupranking.com/iconbench)
 8. [telefongear](http://www.startupranking.com/telefongear)
