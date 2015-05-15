@@ -5,8 +5,8 @@
 3. [fliper-mag](http://www.startupranking.com/fliper-mag)
 4. [pop-prototyping-on-paper](http://www.startupranking.com/pop-prototyping-on-paper)
 5. [tagtoo](http://www.startupranking.com/tagtoo)
-6. [topadmit](http://www.startupranking.com/topadmit)
-7. [waygo](http://www.startupranking.com/waygo)
+6. [waygo](http://www.startupranking.com/waygo)
+7. [topadmit](http://www.startupranking.com/topadmit)
 8. [xing](http://www.startupranking.com/xing)
 9. [lucky-lane](http://www.startupranking.com/lucky-lane)
 

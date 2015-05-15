@@ -112,6 +112,7 @@ foreach ($listOfSupportedCountries['countries'] as $key => $value) {
     $readmeOutput = insertNewline($readmeOutput, 1);
 }
 
+$postReadmeContent = '';
 $postReadmeContent = insertNewline($postReadmeContent, 1);
 $postReadmeContent = appendText($postReadmeContent, file_get_contents('post-readme-content.txt'));
 $readmeOutput      = appendText($readmeOutput, $postReadmeContent);
