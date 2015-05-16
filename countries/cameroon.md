@@ -1,7 +1,7 @@
 ## Top Ranked Startups in Cameroon
 
-1. [afribaba-cameroun](http://www.startupranking.com/afribaba-cameroun)
-2. [afribaba.cm](http://www.startupranking.com/afribaba-cm)
+1. [afribaba.cm](http://www.startupranking.com/afribaba-cm)
+2. [afribaba-cameroun](http://www.startupranking.com/afribaba-cameroun)
 3. [njorku](http://www.startupranking.com/njorku)
 4. [wasamundi](http://www.startupranking.com/wasamundi)
 5. [africavenue](http://www.startupranking.com/africavenue)

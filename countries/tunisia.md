@@ -12,8 +12,8 @@
 10. [real-it](http://www.startupranking.com/real-it)
 11. [cloudisia](http://www.startupranking.com/cloudisia)
 12. [diginium-graphics](http://www.startupranking.com/diginium-graphics)
-13. [klin-productions](http://www.startupranking.com/klin-productions)
-14. [himilco](http://www.startupranking.com/himilco)
+13. [himilco](http://www.startupranking.com/himilco)
+14. [klin-productions](http://www.startupranking.com/klin-productions)
 15. [itegration](http://www.startupranking.com/itegration)
 16. [nard-intelligence](http://www.startupranking.com/nard-intelligence)
 

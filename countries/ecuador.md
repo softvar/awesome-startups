@@ -21,6 +21,6 @@
 19. [revista-gã¼c](http://www.startupranking.com/revista-guc)
 20. [taxi-confiable](http://www.startupranking.com/taxi-confiable)
 21. [express-rose](http://www.startupranking.com/express-rose)
-22. [findercity](http://www.startupranking.com/findercity)
-23. [signtweet](http://www.startupranking.com/signtweet)
+22. [signtweet](http://www.startupranking.com/signtweet)
+23. [findercity](http://www.startupranking.com/findercity)
 
