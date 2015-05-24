@@ -1,8 +1,8 @@
 ## Top Ranked Startups in Nepal
 
 1. [the-bootstrap-themes](http://www.startupranking.com/the-bootstrap-themes)
-2. [vidinterest](http://www.startupranking.com/vidinterest)
-3. [viewallmovies](http://www.startupranking.com/viewallmovies)
+2. [viewallmovies](http://www.startupranking.com/viewallmovies)
+3. [vidinterest](http://www.startupranking.com/vidinterest)
 4. [himalayan-wonders](http://www.startupranking.com/himalayan-wonders)
 5. [nepflights](http://www.startupranking.com/nepflights)
 6. [supernepal.com](http://www.startupranking.com/supernepal-com)
