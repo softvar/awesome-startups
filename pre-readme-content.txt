@@ -8,7 +8,7 @@ This repo is maintained to provide the information regarding the Top 100 startup
 
 ## Contents
 
-- [List of Top 100 Startups](#list-of-top-100-startups-across-the-globe)
+- [List of Top 100 Startups](#list-of-top-100-startups-across-globe)
 - [List of top Startups based on their location](#list-of-countries)
 - [Implementation and Flow](#how-is-it-dynamic)
 - [Contribution](#contribution)
