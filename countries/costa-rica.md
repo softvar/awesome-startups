@@ -1,6 +1,6 @@
 ## Top Ranked Startups in Costa Rica
 
-1. [slidebean](http://www.startupranking.com/slidebean)
-2. [parso](http://www.startupranking.com/parso)
-3. [vizalizer](http://www.startupranking.com/vizalizer)
+1. [parso](http://www.startupranking.com/parso)
+2. [vizalizer](http://www.startupranking.com/vizalizer)
+3. [findbooks](http://www.startupranking.com/findbooks)
 
