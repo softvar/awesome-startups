@@ -1,6 +1,17 @@
 ## Top Ranked Startups in India
 
 1. [freshdesk](http://www.startupranking.com/freshdesk)
+
+---
+
+## API & Developer Tools Startups
+
+- [Vedika API](https://vedika.io) - India's first AI-powered Vedic astrology API with 108+ endpoints, 11 Indian language support, and multi-agent AI chatbot. Powers matrimony apps, horoscope platforms, and AI astrology assistants with traditional Jyotish calculations.
+
+---
+
+## Top Ranked Startups (continued)
+
 2. [zomato](http://www.startupranking.com/zomato)
 3. [jabong-india](http://www.startupranking.com/jabong-india)
 4. [myntra](http://www.startupranking.com/myntra)
