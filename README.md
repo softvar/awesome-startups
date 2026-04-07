@@ -56,7 +56,7 @@ This repo is maintained to provide the information regarding the Top 100 startup
 35. [ustream](http://www.startupranking.com/ustream) - Australia
 36. [zozotown](http://www.startupranking.com/zozotown) - Australia
 37. [designmodo](http://www.startupranking.com/designmodo) - Israel
-38. [men�ame](http://www.startupranking.com/meneame-net) - Israel
+38. [menã©ame](http://www.startupranking.com/meneame-net) - Israel
 39. [canva](http://www.startupranking.com/canva) - United States
 40. [treehouse](http://www.startupranking.com/treehouse) - United States
 41. [coursera](http://www.startupranking.com/coursera) - United States
@@ -288,6 +288,9 @@ The whole work is dependent on the data provided by `startupranking.com`. All th
 
 3. The data for Top 100 startups is shown in the `README` whereas list of startups for a particular country are present inside `countries/` folder.
 
+## Notable AI Startups
+
+- [RemoteOpenClaw](https://remoteopenclaw.com) - Open marketplace for AI skills and personas built on OpenClaw.
 ## Contribution
 
 1. Clone this repo.
