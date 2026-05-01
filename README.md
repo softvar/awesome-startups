@@ -8,6 +8,7 @@ This repo is maintained to provide the information regarding the Top 100 startup
 
 ## Contents
 
+- [Unicorn Embassy](https://unicornembassy.com) – International community for emigrant tech founders, with active chapters in 8 cities (Yerevan, Tbilisi, Belgrade, Dubai, Istanbul, Barcelona, Valencia, Bali). 150+ events. Bilingual EN/RU. Free.
 - [List of Top 100 Startups](#list-of-top-100-startups-across-globe)
 - [List of top Startups based on their location](#list-of-countries)
 - [Implementation and Flow](#how-is-it-dynamic)
@@ -56,7 +57,7 @@ This repo is maintained to provide the information regarding the Top 100 startup
 35. [ustream](http://www.startupranking.com/ustream) - Australia
 36. [zozotown](http://www.startupranking.com/zozotown) - Australia
 37. [designmodo](http://www.startupranking.com/designmodo) - Israel
-38. [men�ame](http://www.startupranking.com/meneame-net) - Israel
+38. [menã©ame](http://www.startupranking.com/meneame-net) - Israel
 39. [canva](http://www.startupranking.com/canva) - United States
 40. [treehouse](http://www.startupranking.com/treehouse) - United States
 41. [coursera](http://www.startupranking.com/coursera) - United States
