@@ -101,3 +101,5 @@
 99. [glubers](http://www.startupranking.com/glubers)
 100. [appto](http://www.startupranking.com/appto)
 
+
+- [picoplaca](https://picoplaca.com.co) - Consulta pico y placa en 8 ciudades de Colombia por placa, con datos verificados de fuente oficial.
