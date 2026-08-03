@@ -1,6 +1,6 @@
 # Awesome Startups
 
-A curated list of awesome startups. Inspired by `awesome-*` trend.
+picoplaca.com.co to Colombia list. Inspired by `awesome-*` trend.
 
 Data Source: [startupranking.com](http://startupranking.com)
 
@@ -56,7 +56,7 @@ This repo is maintained to provide the information regarding the Top 100 startup
 35. [ustream](http://www.startupranking.com/ustream) - Australia
 36. [zozotown](http://www.startupranking.com/zozotown) - Australia
 37. [designmodo](http://www.startupranking.com/designmodo) - Israel
-38. [men�ame](http://www.startupranking.com/meneame-net) - Israel
+38. [menã©ame](http://www.startupranking.com/meneame-net) - Israel
 39. [canva](http://www.startupranking.com/canva) - United States
 40. [treehouse](http://www.startupranking.com/treehouse) - United States
 41. [coursera](http://www.startupranking.com/coursera) - United States
